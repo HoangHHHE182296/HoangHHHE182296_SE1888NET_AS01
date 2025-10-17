@@ -1,0 +1,112 @@
+﻿@using Core.Constants.Account
+@using Core.Enums
+@using System.Text.Json
+@inject IHttpContextAccessor HttpContextAccessor
+@model IEnumerable<Presentation.View_Model.AccountViewModel>
+
+@{
+    ViewData["Title"] = "Account List";
+}
+
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.13.1/font/bootstrap-icons.min.css">
+
+<div class="container mt-5">
+    <h2 class="mb-5 text-center">Account Management</h2>
+    <form method="get" asp-action="ListAccount" class="row g-3 align-items-end bg-light mb-4 rounded p-3 shadow-sm">
+        <div class="col-md-3">
+            <input type="text" name="nameOrEmail" class="form-control"
+                   placeholder="Enter username or email" value="@ViewBag.NameOrEmail" />
+        </div>
+
+        <div class="col-md-3">
+
+            <select name="role" class="form-select">
+                <option value="">All</option>
+
+                <option value="@((int)AccountRole.Staff)" selected="@(ViewBag.Role == (int)AccountRole.Staff)">Staff</option>
+                <option value="@((int)AccountRole.Lecture)" selected="@(ViewBag.Role == (int)AccountRole.Lecture)">Lecturer</option>
+            </select>
+        </div>
+
+        <div class="col-sm-12 col-md-6 d-flex justify-content-md-between align-items-center gap-2">
+            <div class="d-flex gap-2">
+                <button type="submit" class="btn btn-primary justify-self d-flex align-items-center gap-2" data-bs-toggle="tooltip" data-bs-placement="top" title="Search Account">
+                    <i class="bi bi-search"></i><span>Search</span>
+                </button>
+                <a href="@Url.Action("ListAccount", "Account")" class="btn btn-secondary d-flex align-items-center gap-2" data-bs-toggle="tooltip" data-bs-placement="top" title="Reset Filter">
+                    <i class="bi bi-arrow-clockwise"></i><span>Reset</span>
+                </a>
+            </div>
+            <div data-bs-toggle="tooltip" data-bs-placement="top" title="Create A New Account">
+                <button type="button" class="btn btn-success d-flex align-items-center gap-2" data-bs-toggle="modal" data-bs-target="#modal">
+                    <i class="bi bi-plus-circle"></i><span class="text-nowrap">Create new account</span>
+                </button>
+            </div>
+        </div>
+    </form>
+
+    <!-- Table -->
+    <div class="table-responsive shadow-sm">
+        <table class="table-striped table-bordered table text-center align-middle">
+            <thead class="table-primary">
+                <tr>
+                    <th>No. </th>
+                    <th>@Html.DisplayNameFor(model => model.First().Name)</th>
+                    <th>@Html.DisplayNameFor(model => model.First().Email)</th>
+                    <th>@Html.DisplayNameFor(model => model.First().Role)</th>
+                    <th style="width: 350px;">Actions</th>
+                </tr>
+            </thead>
+            <tbody>
+                @if (Model != null && Model.Any()) {
+                    var count = 1;
+                    foreach (var item in Model) {
+                        <tr>
+                            <td>@count</td>
+                            <td>@item.Name</td>
+                            <td>@item.Email</td>
+
+                            <td>@item.Role</td>
+                            <td>
+                                <a asp-action="Edit" asp-route-id="@item.Id" class="btn btn-sm btn-warning me-1">Edit</a>
+                                <a asp-action="Details" asp-route-id="@item.Id" class="btn btn-sm btn-info me-1">Details</a>
+                                <a asp-action="Delete" asp-route-id="@item.Id" class="btn btn-sm btn-danger">Delete</a>
+                            </td>
+                        </tr>
+                        count++;
+                    }
+                } else {
+                    <tr>
+                        <td colspan="6" class="text-muted text-center">No records found!</td>
+                    </tr>
+                }
+            </tbody>
+        </table>
+    </div>
+
+    <!-- Modal -->
+    <div class="modal fade" id="modal" tabindex="-1" data-bs-backdrop="static" data-bs-keyboard="false" aria-labelledby="modalLabel" aria-hidden="true">
+        <div class="modal-dialog modal-dialog-centered modal-dialog-scrollable">
+            <div class="modal-content">
+                <div class="modal-header">
+                    <h5 class="modal-title" id="modalLabel"></h5>
+                    <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+                </div>
+                <form>
+                    <div class="modal-body">
+                    </div>
+                    <div class="modal-footer">
+                        <button type="button" class="btn btn-secondary" data-bs-dismiss="modal"></button>
+                        <button type="button" class="btn btn-primary"></button>
+                    </div>
+                </form>
+            </div>
+        </div>
+    </div>
+</div>
+
+<script>
+    $(document).ready(function () {
+       
+    }
+</script>

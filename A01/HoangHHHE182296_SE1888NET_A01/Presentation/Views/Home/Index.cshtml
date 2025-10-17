@@ -1,0 +1,11 @@
+﻿@{
+    ViewData["Title"] = "Home Page";
+}
+
+<div class="text-center">
+    @if (ViewBag.UserRole != null) {
+        <h1 class="display-4">Welcome to FU News Management System, @ViewBag.UserRole!</h1>
+    } else {
+        <h1 class="display-4">Welcome to FU News Management System!</h1>
+    }
+</div>
