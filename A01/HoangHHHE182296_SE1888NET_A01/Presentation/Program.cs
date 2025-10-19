@@ -1,3 +1,4 @@
+using BusinessLogic.Rules;
 using BusinessLogic.Services;
 using BusinessLogic.Validation;
 using DataAccess;
@@ -19,7 +20,10 @@ namespace Presentation {
 
             builder.Services.AddScoped<ISystemAccountRepository, SystemAccountRepository>();
             builder.Services.AddScoped<SystemAccountValidator>();
+            builder.Services.AddScoped<SystemAccountRules>();
             builder.Services.AddScoped<SystemAccountService>();
+
+            builder.Services.AddScoped<INewsArticleRepository, NewsArticleRepository>();
 
             builder.Services.AddControllersWithViews();
             builder.Services.AddSession(options => {

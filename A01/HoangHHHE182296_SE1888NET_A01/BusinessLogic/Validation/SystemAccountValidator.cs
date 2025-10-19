@@ -1,5 +1,7 @@
 ﻿using BusinessLogic.DTOs;
+using BusinessLogic.DTOs.Requests;
 using DataAccess.Repositories;
+using Microsoft.EntityFrameworkCore.Query.Internal;
 using System;
 using System.Collections.Generic;
 using System.ComponentModel.DataAnnotations;
@@ -14,28 +16,26 @@ namespace BusinessLogic.Validation {
             _systemAccountRepository = systemAccountRepository;
         }
 
-        public void ValidateForLogin(string email, string password) {
-            if (string.IsNullOrWhiteSpace(email))
-                throw new ArgumentException("Email is required.");
-
-            if (string.IsNullOrWhiteSpace(password))
-                throw new ArgumentException("Password is required.");
+        public void ValidateForLogin(LoginRequest loginRequest) {
+            this.ValidateGeneric(loginRequest);
         }
 
-        public void ValidateForCreate(SystemAccountDTO accountDto) {
-            var context = new ValidationContext(accountDto, null, null);
+        public void ValidateForCreate(CreateAccountRequest createAccountRequest) {
+            this.ValidateGeneric(createAccountRequest);
+        }
+
+        // Validate generic
+        private void ValidateGeneric<T>(T entity) {
+            var context = new ValidationContext(entity, null, null);
             var results = new List<ValidationResult>();
 
-            // validate tất cả thuộc tính
-            Validator.TryValidateObject(accountDto, context, results, true);
+            Validator.TryValidateObject(entity, context, results, true);
 
             foreach (var result in results) {
                 foreach (var memberName in result.MemberNames) {
-                    // ném ArgumentException cho từng lỗi
                     throw new ArgumentException($"{result.ErrorMessage}");
                 }
             }
-
         }
     }
 }

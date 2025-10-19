@@ -1,4 +1,4 @@
-﻿using BusinessLogic.DTOs;
+﻿using BusinessLogic.DTOs.Requests;
 using BusinessLogic.Services;
 using Core.Constants.Account;
 using Core.Enums;
@@ -6,6 +6,8 @@ using Microsoft.AspNetCore.Mvc;
 using Microsoft.VisualStudio.Web.CodeGenerators.Mvc.Templates.BlazorIdentity.Pages.Manage;
 using Presentation.Models;
 using Presentation.View_Model;
+using Presentation.View_Model.Data;
+using Presentation.View_Model.Params;
 using System.Data;
 using System.Text.Json;
 
@@ -23,28 +25,26 @@ namespace Presentation.Controllers {
         }
 
         [HttpPost]
-        public async Task<IActionResult> Login(LoginModel accLog) {
+        public async Task<IActionResult> Login([FromForm] LoginParams loginParams) {
             if (!ModelState.IsValid) {
-
-                return View("Login", accLog);
+                return View("Login", loginParams);
             }
+
             try {
-
-                var account = await _systemAccountService.LoginAsync(accLog.Email, accLog.Password);
-
+                var account = await _systemAccountService.LoginAsync(new LoginRequest { AccountEmail = loginParams.Email, AccountPassword = loginParams.Password });
                 HttpContext.Session.SetString("Username", account.AccountName ?? string.Empty);
                 HttpContext.Session.SetString("UserRole", ((AccountRole)account.AccountRole.Value).ToString());
 
                 return RedirectToAction("Index", "Home");
             } catch (InvalidOperationException ex) {
                 ModelState.AddModelError("Email", ex.Message);
-                return View(accLog);
+                return View(loginParams);
             } catch (UnauthorizedAccessException ex) {
                 ModelState.AddModelError("Password", ex.Message);
-                return View(accLog);
+                return View(loginParams);
             } catch (Exception ex) {
                 ViewBag.MessageError = ex.Message;
-                return View(accLog);
+                return View(loginParams);
             }
         }
 
@@ -53,95 +53,120 @@ namespace Presentation.Controllers {
             return RedirectToAction("Login");
         }
 
-        public async Task<IActionResult> ListAccount(string? nameOrEmail, int? role) {
-            ViewBag.NameOrEmail = nameOrEmail;
-            ViewBag.Role = role;
+        public async Task<IActionResult> ListAccount([FromQuery] SearchAccountParams searchAccountParams) {
+            ViewBag.Keyword = searchAccountParams.Keyword;
+            ViewBag.Role = searchAccountParams.Role;
 
-            var accounts = await _systemAccountService.SearchAccountAsync(nameOrEmail, role);
+            var accounts = await _systemAccountService.SearchAccountAsync(searchAccountParams.Keyword, searchAccountParams.Role != null ? (int)(AccountRole)Enum.Parse(typeof(AccountRole), searchAccountParams.Role) : null);
 
             var list = accounts.Select(a => new AccountViewModel {
-                Id = a.AccountId,
-                Name = a.AccountName,
-                Email = a.AccountEmail,
-                Role = ((AccountRole)a.AccountRole.Value).ToString()
+                Account = new AccountModel {
+                    Id = a.AccountId,
+                    Name = a.AccountName,
+                    Email = a.AccountEmail,
+                    Role = ((AccountRole)a.AccountRole.Value).ToString()
+                }
             }).ToList();
 
             return View(list);
         }
 
+
         public async Task<IActionResult> GetAccountForm(int actionType, int? accountId) {
-            AccountViewModel account;
             if (actionType == AccountModalConst.Create.Value) {
                 ViewBag.ModalType = AccountModalConst.Create.Value;
                 return PartialView("Modal/CreateUpdateModal");
             } else if (actionType == AccountModalConst.Edit.Value) {
-                var tmp = await _systemAccountService.GetAccountByIdAsync(accountId.Value);
-
-                account = new AccountViewModel {
-                    Id = tmp.AccountId,
-                    Name = tmp.AccountName,
-                    Email = tmp.AccountEmail,
-                    Role = ((AccountRole)tmp.AccountRole.Value).ToString()
-                };
+                var account = await _systemAccountService.GetAccountByIdAsync(accountId.Value);
 
                 ViewBag.ModalType = AccountModalConst.Edit.Value;
-                return PartialView("Modal/CreateUpdateModal", account);
+                return PartialView("Modal/CreateUpdateModal", new CreateUpdateAccountParams {
+                    Name = account.AccountName,
+                    Email = account.AccountEmail,
+                    Role = ((AccountRole)account.AccountRole.Value).ToString()
+                });
+
             } else if (actionType == AccountModalConst.Delete.Value) {
-                var tmp = await _systemAccountService.GetAccountByIdAsync(accountId.Value);
-                account = new AccountViewModel {
-                    Id = tmp.AccountId,
-                    Name = tmp.AccountName,
-                    Email = tmp.AccountEmail,
-                    Role = ((AccountRole)tmp.AccountRole.Value).ToString()
-                };
-                return PartialView("Modal/DeleteModal", account);
+                var account = await _systemAccountService.GetAccountByIdAsync(accountId.Value);
+                return PartialView("Modal/DeleteModal", account.AccountName);
             }
 
             return PartialView("Modal/ChangePasswordModal");
         }
 
         [HttpPost]
-        public async Task<IActionResult> CreateUpdate(int actionType, [FromForm] AccountViewModel account) {
+        public async Task<IActionResult> CreateUpdate(int actionType, [FromForm] CreateUpdateAccountParams createUpdateAccountParams) {
             if (!ModelState.IsValid) {
-                return PartialView("Modal/CreateUpdateModal", account);
+                return PartialView("Modal/CreateUpdateModal", createUpdateAccountParams);
             }
+            Console.WriteLine(actionType);
 
             try {
+
                 if (actionType == AccountModalConst.Create.Value) {
-                    var accountDto = new SystemAccountDTO {
-                        AccountName = account.Name,
-                        AccountEmail = account.Email,
-                        AccountPassword = account.Password,
-                        AccountRole = (int)(AccountRole)Enum.Parse(typeof(AccountRole), account.Role)
+                    var createParams = new CreateAccountRequest {
+                        AccountName = createUpdateAccountParams.Name,
+                        AccountEmail = createUpdateAccountParams.Email,
+                        AccountPassword = createUpdateAccountParams.Password,
+                        AccountRole = (int)Enum.Parse(typeof(AccountRole), createUpdateAccountParams.Role)
                     };
-                    Console.WriteLine(accountDto.AccountRole);
-                    await _systemAccountService.AddAccountAsync(accountDto);
+
+                    await _systemAccountService.AddAccountAsync(createParams);
                 } else if (actionType == AccountModalConst.Edit.Value) {
-                    // TODO: handle update logic here
+
+                    var updateParams = new UpdateAccountRequest {
+                        AccountId = createUpdateAccountParams.Id,
+                        AccountName = createUpdateAccountParams.Name,
+                        AccountEmail = createUpdateAccountParams.Email,
+                        AccountRole = (int)Enum.Parse(typeof(AccountRole), createUpdateAccountParams.Role)
+                    };
+
+                    await _systemAccountService.UpdateAccountAsync(updateParams);
                 }
 
-                // Sau khi thêm hoặc cập nhật xong → load lại danh sách account
-                var allAccounts = await _systemAccountService.SearchAccountAsync(null, null); // null: tìm kế tiếp();
-                var list = allAccounts.Select(x => new AccountViewModel {
-                    Id = x.AccountId,
-                    Name = x.AccountName,
-                    Email = x.AccountEmail,
-                    Role = ((AccountRole)x.AccountRole.Value).ToString()
+                var allAccounts = await _systemAccountService.SearchAccountAsync(null, null);
+                var list = allAccounts.Select(a => new AccountViewModel {
+                    Account = new AccountModel {
+                        Id = a.AccountId,
+                        Name = a.AccountName,
+                        Email = a.AccountEmail,
+                        Role = ((AccountRole)a.AccountRole.Value).ToString()
+                    }
                 }).ToList();
 
                 return PartialView("_AccountTablePartial", list);
             } catch (InvalidOperationException ex) {
-                // Trường hợp lỗi nghiệp vụ (vd: Email đã tồn tại)
                 ModelState.AddModelError("Email", ex.Message);
-                Response.StatusCode = 400; // báo lỗi cho AJAX biết
-                ViewBag.ModalType = AccountModalConst.Create.Value;
-                return PartialView("Modal/CreateUpdateModal", account);
+                Response.StatusCode = 400;
+                ViewBag.ModalType = actionType;
+                return PartialView("Modal/CreateUpdateModal", createUpdateAccountParams);
             } catch (Exception ex) {
-                // Trường hợp lỗi hệ thống (vd: database, network, etc.)
                 return Json(new { success = false, message = ex.Message });
             }
 
         }
+
+        [HttpPost]
+        public async Task<IActionResult> Delete(int accountId) {
+            try {
+                await _systemAccountService.DeleteAccountAsync(accountId);
+
+                var allAccounts = await _systemAccountService.SearchAccountAsync(null, null);
+                var list = allAccounts.Select(a => new AccountViewModel {
+                    Account = new AccountModel {
+                        Id = a.AccountId,
+                        Name = a.AccountName,
+                        Email = a.AccountEmail,
+                        Role = ((AccountRole)a.AccountRole.Value).ToString()
+                    }
+                }).ToList();
+
+                return PartialView("_AccountTablePartial", list);
+            } catch (Exception ex) {
+                return Json(new { success = false, message = ex.Message });
+            }
+        }
+
 
     }
 }

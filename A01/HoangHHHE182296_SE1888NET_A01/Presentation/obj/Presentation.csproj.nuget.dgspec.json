@@ -33,6 +33,9 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
+              "D:\\FPT\\PRN222\\Assignments\\AS01\\HoangHHHE182296_SE1888NET_AS01\\A01\\HoangHHHE182296_SE1888NET_A01\\Core\\Core.csproj": {
+                "projectPath": "D:\\FPT\\PRN222\\Assignments\\AS01\\HoangHHHE182296_SE1888NET_AS01\\A01\\HoangHHHE182296_SE1888NET_A01\\Core\\Core.csproj"
+              },
               "D:\\FPT\\PRN222\\Assignments\\AS01\\HoangHHHE182296_SE1888NET_AS01\\A01\\HoangHHHE182296_SE1888NET_A01\\DataAccess\\DataAccess.csproj": {
                 "projectPath": "D:\\FPT\\PRN222\\Assignments\\AS01\\HoangHHHE182296_SE1888NET_AS01\\A01\\HoangHHHE182296_SE1888NET_A01\\DataAccess\\DataAccess.csproj"
               }

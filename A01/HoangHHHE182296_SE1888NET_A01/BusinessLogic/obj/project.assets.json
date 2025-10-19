@@ -1004,6 +1004,16 @@
           }
         }
       },
+      "Core/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "compile": {
+          "bin/placeholder/Core.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Core.dll": {}
+        }
+      },
       "DataAccess/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v8.0",
@@ -2803,6 +2813,11 @@
         "useSharedDesignerContext.txt"
       ]
     },
+    "Core/1.0.0": {
+      "type": "project",
+      "path": "../Core/Core.csproj",
+      "msbuildProject": "../Core/Core.csproj"
+    },
     "DataAccess/1.0.0": {
       "type": "project",
       "path": "../DataAccess/DataAccess.csproj",
@@ -2811,6 +2826,7 @@
   },
   "projectFileDependencyGroups": {
     "net8.0": [
+      "Core >= 1.0.0",
       "DataAccess >= 1.0.0"
     ]
   },
@@ -2847,6 +2863,9 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
+            "D:\\FPT\\PRN222\\Assignments\\AS01\\HoangHHHE182296_SE1888NET_AS01\\A01\\HoangHHHE182296_SE1888NET_A01\\Core\\Core.csproj": {
+              "projectPath": "D:\\FPT\\PRN222\\Assignments\\AS01\\HoangHHHE182296_SE1888NET_AS01\\A01\\HoangHHHE182296_SE1888NET_A01\\Core\\Core.csproj"
+            },
             "D:\\FPT\\PRN222\\Assignments\\AS01\\HoangHHHE182296_SE1888NET_AS01\\A01\\HoangHHHE182296_SE1888NET_A01\\DataAccess\\DataAccess.csproj": {
               "projectPath": "D:\\FPT\\PRN222\\Assignments\\AS01\\HoangHHHE182296_SE1888NET_AS01\\A01\\HoangHHHE182296_SE1888NET_A01\\DataAccess\\DataAccess.csproj"
             }

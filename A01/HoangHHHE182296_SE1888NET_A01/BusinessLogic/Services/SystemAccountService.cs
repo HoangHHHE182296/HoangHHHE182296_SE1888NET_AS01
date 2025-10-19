@@ -1,4 +1,7 @@
 ﻿using BusinessLogic.DTOs;
+using BusinessLogic.DTOs.Requests;
+using BusinessLogic.DTOs.Response;
+using BusinessLogic.Rules;
 using BusinessLogic.Validation;
 using DataAccess.Entities;
 using DataAccess.Repositories;
@@ -13,66 +16,89 @@ namespace BusinessLogic.Services {
     public class SystemAccountService {
         private readonly ISystemAccountRepository _systemAccountRepository;
         private readonly IConfiguration _configuration;
-        private readonly SystemAccountValidator _accountValidator;
+        private readonly SystemAccountValidator _systemAccountValidator;
+        private readonly SystemAccountRules _systemAccountRules;
 
-        public SystemAccountService(ISystemAccountRepository systemAccountRepository, IConfiguration configuration, SystemAccountValidator accountValidator) {
+        public SystemAccountService(ISystemAccountRepository systemAccountRepository, IConfiguration configuration, SystemAccountValidator systemAccountValidator, SystemAccountRules systemAccountRules) {
             _systemAccountRepository = systemAccountRepository;
             _configuration = configuration;
-            _accountValidator = accountValidator;
+            _systemAccountValidator = systemAccountValidator;
+            _systemAccountRules = systemAccountRules;
         }
 
-        public async Task<SystemAccount> LoginAsync(string email, string password) {
-            _accountValidator.ValidateForLogin(email, password);
+        public async Task<LoginResponse> LoginAsync(LoginRequest loginRequest) {
+            _systemAccountValidator.ValidateForLogin(loginRequest);
+            await _systemAccountRules.CheckForLogin(loginRequest);
+
+            var email = loginRequest.AccountEmail;
+            var password = loginRequest.AccountPassword;
 
             var adminEmail = _configuration["AdminAccount:Email"];
-            var adminPassword = _configuration["AdminAccount:Password"];
             if (email == adminEmail) {
-                var admin = new SystemAccount {
-                    AccountId = short.Parse(_configuration["AdminAccount:Id"]),
+                return new LoginResponse {
                     AccountEmail = adminEmail,
                     AccountName = _configuration["AdminAccount:Name"],
-                    AccountPassword = adminPassword,
                     AccountRole = int.Parse(_configuration["AdminAccount:Role"])
                 };
-
-                if (admin.AccountPassword != password) throw new UnauthorizedAccessException("Password is incorrect!");
-
-                return admin;
             }
 
             var account = await _systemAccountRepository.GetAccountAsync(email);
-
-            if (account == null) throw new InvalidOperationException("Account not found!");
-            if (account.AccountPassword != password) throw new UnauthorizedAccessException("Password is incorrect!");
-
-            return account;
+            return new LoginResponse { AccountName = account.AccountName, AccountEmail = account.AccountEmail, AccountRole = account.AccountRole };
         }
 
-        public async Task<IEnumerable<SystemAccount>> SearchAccountAsync(string? accountNameOrEmail, int? accountRole) => await _systemAccountRepository.SearchAccountAsync(accountNameOrEmail, accountRole);
+        public async Task<IEnumerable<SystemAccountResponse>> SearchAccountAsync(string? keyword, int? accountRole) {
+            var accounts = await _systemAccountRepository.SearchAccountAsync(keyword, accountRole);
+            return accounts.Select(a => new SystemAccountResponse {
+                AccountId = a.AccountId,
+                AccountName = a.AccountName,
+                AccountEmail = a.AccountEmail,
+                AccountRole = a.AccountRole
+            }).ToList();
+        }
 
-        public async Task AddAccountAsync(SystemAccountDTO accountDto) {
-            _accountValidator.ValidateForCreate(accountDto);
-
-            var lastId = await _systemAccountRepository.GetLastIdAsync();
+        public async Task AddAccountAsync(CreateAccountRequest createAccountRequest) {
+            _systemAccountValidator.ValidateForCreate(createAccountRequest);
+            await _systemAccountRules.CheckForCreateAccount(createAccountRequest);
 
             var account = new SystemAccount {
-                AccountId = (short)(lastId + 1),
-                AccountName = accountDto.AccountName,
-                AccountEmail = accountDto.AccountEmail,
-                AccountPassword = accountDto.AccountPassword,
-                AccountRole = accountDto.AccountRole
+                AccountName = createAccountRequest.AccountName,
+                AccountEmail = createAccountRequest.AccountEmail,
+                AccountPassword = createAccountRequest.AccountPassword,
+                AccountRole = createAccountRequest.AccountRole
             };
-
-            var existingAccount = await _systemAccountRepository.GetAccountAsync(account.AccountEmail);
-            if (existingAccount != null) throw new InvalidOperationException("Account already exists!");
 
             await _systemAccountRepository.AddAccountAsync(account);
         }
 
-        public async Task<SystemAccount> GetAccountByIdAsync(int accountId) => await _systemAccountRepository.GetAccountByIdAsync(accountId);
+        public async Task<SystemAccountResponse> GetAccountByIdAsync(int accountId) {
+            var account = await _systemAccountRepository.GetAccountByIdAsync(accountId);
 
+            return new SystemAccountResponse {
+                AccountId = account.AccountId,
+                AccountName = account.AccountName,
+                AccountEmail = account.AccountEmail,
+                AccountRole = account.AccountRole
+            };
+        }
 
-        public async Task UpdateAccountAsync(SystemAccountDTO accountDto) {
-            _accountValidator.ValidateForUpdate(accountDto);
+        public async Task DeleteAccountAsync(int accountId) {
+            await _systemAccountRules.CheckForDeleteAccount(accountId);
+            await _systemAccountRepository.DeleteAccountAsync(accountId);
+        }
+
+        public async Task UpdateAccountAsync(UpdateAccountRequest updateAccountRequest) {
+
+            Console.WriteLine("Name: " + updateAccountRequest.AccountName);
+            Console.WriteLine("Email: " + updateAccountRequest.AccountEmail);
+            Console.WriteLine("Role: " + updateAccountRequest.AccountRole);
+            await _systemAccountRules.CheckForUpdateAccount(updateAccountRequest);
+            var account = new SystemAccount {
+                AccountId = (short)updateAccountRequest.AccountId,
+                AccountName = updateAccountRequest.AccountName,
+                AccountEmail = updateAccountRequest.AccountEmail,
+                AccountRole = updateAccountRequest.AccountRole
+            };
+            await _systemAccountRepository.UpdateAccountAsync(account);
+        }
     }
 }

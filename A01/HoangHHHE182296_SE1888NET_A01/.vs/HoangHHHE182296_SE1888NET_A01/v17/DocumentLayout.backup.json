@@ -1,218 +1,250 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\FPT\\PRN222\\Assigment\\A01\\HoangHHHE182296_SE1888NET_A01\\",
+  "WorkspaceRootPath": "D:\\FPT\\PRN222\\Assignments\\AS01\\HoangHHHE182296_SE1888NET_AS01\\A01\\HoangHHHE182296_SE1888NET_A01\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{FC8BE03D-F61A-4115-BDF1-583B12A4D593}|Presentation\\Presentation.csproj|d:\\fpt\\prn222\\assigment\\a01\\hoanghhhe182296_se1888net_a01\\presentation\\views\\shared\\navbar\\_navstaff.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{FC8BE03D-F61A-4115-BDF1-583B12A4D593}|Presentation\\Presentation.csproj|solutionrelative:presentation\\views\\shared\\navbar\\_navstaff.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FC8BE03D-F61A-4115-BDF1-583B12A4D593}|Presentation\\Presentation.csproj|d:\\fpt\\prn222\\assigment\\a01\\hoanghhhe182296_se1888net_a01\\presentation\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{FC8BE03D-F61A-4115-BDF1-583B12A4D593}|Presentation\\Presentation.csproj|solutionrelative:presentation\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FC8BE03D-F61A-4115-BDF1-583B12A4D593}|Presentation\\Presentation.csproj|d:\\fpt\\prn222\\assigment\\a01\\hoanghhhe182296_se1888net_a01\\presentation\\view-model\\accountviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FC8BE03D-F61A-4115-BDF1-583B12A4D593}|Presentation\\Presentation.csproj|solutionrelative:presentation\\view-model\\accountviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FC8BE03D-F61A-4115-BDF1-583B12A4D593}|Presentation\\Presentation.csproj|d:\\fpt\\prn222\\assigment\\a01\\hoanghhhe182296_se1888net_a01\\presentation\\wwwroot\\js\\account.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "AbsoluteMoniker": "D:0:0:{FC8BE03D-F61A-4115-BDF1-583B12A4D593}|Presentation\\Presentation.csproj|d:\\fpt\\prn222\\assignments\\as01\\hoanghhhe182296_se1888net_as01\\a01\\hoanghhhe182296_se1888net_a01\\presentation\\wwwroot\\js\\account.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
       "RelativeMoniker": "D:0:0:{FC8BE03D-F61A-4115-BDF1-583B12A4D593}|Presentation\\Presentation.csproj|solutionrelative:presentation\\wwwroot\\js\\account.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FC8BE03D-F61A-4115-BDF1-583B12A4D593}|Presentation\\Presentation.csproj|d:\\fpt\\prn222\\assigment\\a01\\hoanghhhe182296_se1888net_a01\\presentation\\views\\account\\modal\\deletemodal.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{FC8BE03D-F61A-4115-BDF1-583B12A4D593}|Presentation\\Presentation.csproj|solutionrelative:presentation\\views\\account\\modal\\deletemodal.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FC8BE03D-F61A-4115-BDF1-583B12A4D593}|Presentation\\Presentation.csproj|d:\\fpt\\prn222\\assigment\\a01\\hoanghhhe182296_se1888net_a01\\presentation\\views\\account\\modal\\createupdatemodal.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{FC8BE03D-F61A-4115-BDF1-583B12A4D593}|Presentation\\Presentation.csproj|solutionrelative:presentation\\views\\account\\modal\\createupdatemodal.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FC8BE03D-F61A-4115-BDF1-583B12A4D593}|Presentation\\Presentation.csproj|d:\\fpt\\prn222\\assigment\\a01\\hoanghhhe182296_se1888net_a01\\presentation\\views\\account\\modal\\changepassword.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{FC8BE03D-F61A-4115-BDF1-583B12A4D593}|Presentation\\Presentation.csproj|solutionrelative:presentation\\views\\account\\modal\\changepassword.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FC8BE03D-F61A-4115-BDF1-583B12A4D593}|Presentation\\Presentation.csproj|d:\\fpt\\prn222\\assigment\\a01\\hoanghhhe182296_se1888net_a01\\presentation\\views\\account\\_accounttablepartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{FC8BE03D-F61A-4115-BDF1-583B12A4D593}|Presentation\\Presentation.csproj|solutionrelative:presentation\\views\\account\\_accounttablepartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FC8BE03D-F61A-4115-BDF1-583B12A4D593}|Presentation\\Presentation.csproj|d:\\fpt\\prn222\\assigment\\a01\\hoanghhhe182296_se1888net_a01\\presentation\\views\\account\\listaccount.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{FC8BE03D-F61A-4115-BDF1-583B12A4D593}|Presentation\\Presentation.csproj|solutionrelative:presentation\\views\\account\\listaccount.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FC8BE03D-F61A-4115-BDF1-583B12A4D593}|Presentation\\Presentation.csproj|d:\\fpt\\prn222\\assigment\\a01\\hoanghhhe182296_se1888net_a01\\presentation\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{FC8BE03D-F61A-4115-BDF1-583B12A4D593}|Presentation\\Presentation.csproj|solutionrelative:presentation\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5CAD482C-317F-4381-B262-A3CF7CE444A8}|BusinessLogic\\BusinessLogic.csproj|d:\\fpt\\prn222\\assigment\\a01\\hoanghhhe182296_se1888net_a01\\businesslogic\\validation\\systemaccountvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5CAD482C-317F-4381-B262-A3CF7CE444A8}|BusinessLogic\\BusinessLogic.csproj|solutionrelative:businesslogic\\validation\\systemaccountvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5CAD482C-317F-4381-B262-A3CF7CE444A8}|BusinessLogic\\BusinessLogic.csproj|d:\\fpt\\prn222\\assigment\\a01\\hoanghhhe182296_se1888net_a01\\businesslogic\\services\\systemaccountservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5CAD482C-317F-4381-B262-A3CF7CE444A8}|BusinessLogic\\BusinessLogic.csproj|solutionrelative:businesslogic\\services\\systemaccountservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5CAD482C-317F-4381-B262-A3CF7CE444A8}|BusinessLogic\\BusinessLogic.csproj|d:\\fpt\\prn222\\assigment\\a01\\hoanghhhe182296_se1888net_a01\\businesslogic\\dtos\\systemaccountdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5CAD482C-317F-4381-B262-A3CF7CE444A8}|BusinessLogic\\BusinessLogic.csproj|solutionrelative:businesslogic\\dtos\\systemaccountdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{258C0B2E-6C35-4686-9470-3E625495AECD}|Core\\Core.csproj|d:\\fpt\\prn222\\assigment\\a01\\hoanghhhe182296_se1888net_a01\\core\\enums\\accountrole.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{258C0B2E-6C35-4686-9470-3E625495AECD}|Core\\Core.csproj|solutionrelative:core\\enums\\accountrole.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5CAD482C-317F-4381-B262-A3CF7CE444A8}|BusinessLogic\\BusinessLogic.csproj|d:\\fpt\\prn222\\assigment\\a01\\hoanghhhe182296_se1888net_a01\\businesslogic\\dtos\\categorydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5CAD482C-317F-4381-B262-A3CF7CE444A8}|BusinessLogic\\BusinessLogic.csproj|solutionrelative:businesslogic\\dtos\\categorydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DA196DD0-0A3B-48CB-87A3-DFDCF5F0CB28}|DataAccess\\DataAccess.csproj|d:\\fpt\\prn222\\assigment\\a01\\hoanghhhe182296_se1888net_a01\\dataaccess\\repositories\\systemaccountrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DA196DD0-0A3B-48CB-87A3-DFDCF5F0CB28}|DataAccess\\DataAccess.csproj|solutionrelative:dataaccess\\repositories\\systemaccountrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DA196DD0-0A3B-48CB-87A3-DFDCF5F0CB28}|DataAccess\\DataAccess.csproj|d:\\fpt\\prn222\\assigment\\a01\\hoanghhhe182296_se1888net_a01\\dataaccess\\repositories\\isystemaccountrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DA196DD0-0A3B-48CB-87A3-DFDCF5F0CB28}|DataAccess\\DataAccess.csproj|solutionrelative:dataaccess\\repositories\\isystemaccountrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5CAD482C-317F-4381-B262-A3CF7CE444A8}|BusinessLogic\\BusinessLogic.csproj|d:\\fpt\\prn222\\assigment\\a01\\hoanghhhe182296_se1888net_a01\\businesslogic\\services\\categoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5CAD482C-317F-4381-B262-A3CF7CE444A8}|BusinessLogic\\BusinessLogic.csproj|solutionrelative:businesslogic\\services\\categoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5CAD482C-317F-4381-B262-A3CF7CE444A8}|BusinessLogic\\BusinessLogic.csproj|d:\\fpt\\prn222\\assigment\\a01\\hoanghhhe182296_se1888net_a01\\businesslogic\\validation\\categoryvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5CAD482C-317F-4381-B262-A3CF7CE444A8}|BusinessLogic\\BusinessLogic.csproj|solutionrelative:businesslogic\\validation\\categoryvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DA196DD0-0A3B-48CB-87A3-DFDCF5F0CB28}|DataAccess\\DataAccess.csproj|d:\\fpt\\prn222\\assigment\\a01\\hoanghhhe182296_se1888net_a01\\dataaccess\\repositories\\icategoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DA196DD0-0A3B-48CB-87A3-DFDCF5F0CB28}|DataAccess\\DataAccess.csproj|solutionrelative:dataaccess\\repositories\\icategoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{258C0B2E-6C35-4686-9470-3E625495AECD}|Core\\Core.csproj|d:\\fpt\\prn222\\assigment\\a01\\hoanghhhe182296_se1888net_a01\\core\\constants\\account\\accountmodalconst.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{258C0B2E-6C35-4686-9470-3E625495AECD}|Core\\Core.csproj|solutionrelative:core\\constants\\account\\accountmodalconst.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FC8BE03D-F61A-4115-BDF1-583B12A4D593}|Presentation\\Presentation.csproj|d:\\fpt\\prn222\\assigment\\a01\\hoanghhhe182296_se1888net_a01\\presentation\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FC8BE03D-F61A-4115-BDF1-583B12A4D593}|Presentation\\Presentation.csproj|solutionrelative:presentation\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FC8BE03D-F61A-4115-BDF1-583B12A4D593}|Presentation\\Presentation.csproj|d:\\fpt\\prn222\\assigment\\a01\\hoanghhhe182296_se1888net_a01\\presentation\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FC8BE03D-F61A-4115-BDF1-583B12A4D593}|Presentation\\Presentation.csproj|solutionrelative:presentation\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FC8BE03D-F61A-4115-BDF1-583B12A4D593}|Presentation\\Presentation.csproj|d:\\fpt\\prn222\\assigment\\a01\\hoanghhhe182296_se1888net_a01\\presentation\\models\\accountmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{FC8BE03D-F61A-4115-BDF1-583B12A4D593}|Presentation\\Presentation.csproj|d:\\fpt\\prn222\\assignments\\as01\\hoanghhhe182296_se1888net_as01\\a01\\hoanghhhe182296_se1888net_a01\\presentation\\models\\accountmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{FC8BE03D-F61A-4115-BDF1-583B12A4D593}|Presentation\\Presentation.csproj|solutionrelative:presentation\\models\\accountmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FC8BE03D-F61A-4115-BDF1-583B12A4D593}|Presentation\\Presentation.csproj|d:\\fpt\\prn222\\assigment\\a01\\hoanghhhe182296_se1888net_a01\\presentation\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FC8BE03D-F61A-4115-BDF1-583B12A4D593}|Presentation\\Presentation.csproj|solutionrelative:presentation\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{FC8BE03D-F61A-4115-BDF1-583B12A4D593}|Presentation\\Presentation.csproj|d:\\fpt\\prn222\\assignments\\as01\\hoanghhhe182296_se1888net_as01\\a01\\hoanghhhe182296_se1888net_a01\\presentation\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FC8BE03D-F61A-4115-BDF1-583B12A4D593}|Presentation\\Presentation.csproj|solutionrelative:presentation\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FC8BE03D-F61A-4115-BDF1-583B12A4D593}|Presentation\\Presentation.csproj|d:\\fpt\\prn222\\assigment\\a01\\hoanghhhe182296_se1888net_a01\\presentation\\controllers\\categoycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FC8BE03D-F61A-4115-BDF1-583B12A4D593}|Presentation\\Presentation.csproj|solutionrelative:presentation\\controllers\\categoycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{FC8BE03D-F61A-4115-BDF1-583B12A4D593}|Presentation\\Presentation.csproj|d:\\fpt\\prn222\\assignments\\as01\\hoanghhhe182296_se1888net_as01\\a01\\hoanghhhe182296_se1888net_a01\\presentation\\models\\newsarticlemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FC8BE03D-F61A-4115-BDF1-583B12A4D593}|Presentation\\Presentation.csproj|solutionrelative:presentation\\models\\newsarticlemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FC8BE03D-F61A-4115-BDF1-583B12A4D593}|Presentation\\Presentation.csproj|d:\\fpt\\prn222\\assigment\\a01\\hoanghhhe182296_se1888net_a01\\presentation\\views\\shared\\_notification.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{FC8BE03D-F61A-4115-BDF1-583B12A4D593}|Presentation\\Presentation.csproj|solutionrelative:presentation\\views\\shared\\_notification.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{FC8BE03D-F61A-4115-BDF1-583B12A4D593}|Presentation\\Presentation.csproj|d:\\fpt\\prn222\\assignments\\as01\\hoanghhhe182296_se1888net_as01\\a01\\hoanghhhe182296_se1888net_a01\\presentation\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FC8BE03D-F61A-4115-BDF1-583B12A4D593}|Presentation\\Presentation.csproj|solutionrelative:presentation\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FC8BE03D-F61A-4115-BDF1-583B12A4D593}|Presentation\\Presentation.csproj|d:\\fpt\\prn222\\assigment\\a01\\hoanghhhe182296_se1888net_a01\\presentation\\view-model\\categoryviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FC8BE03D-F61A-4115-BDF1-583B12A4D593}|Presentation\\Presentation.csproj|solutionrelative:presentation\\view-model\\categoryviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{FC8BE03D-F61A-4115-BDF1-583B12A4D593}|Presentation\\Presentation.csproj|d:\\fpt\\prn222\\assignments\\as01\\hoanghhhe182296_se1888net_as01\\a01\\hoanghhhe182296_se1888net_a01\\presentation\\views\\account\\listaccount.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FC8BE03D-F61A-4115-BDF1-583B12A4D593}|Presentation\\Presentation.csproj|solutionrelative:presentation\\views\\account\\listaccount.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FC8BE03D-F61A-4115-BDF1-583B12A4D593}|Presentation\\Presentation.csproj|d:\\fpt\\prn222\\assigment\\a01\\hoanghhhe182296_se1888net_a01\\presentation\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{FC8BE03D-F61A-4115-BDF1-583B12A4D593}|Presentation\\Presentation.csproj|solutionrelative:presentation\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{FC8BE03D-F61A-4115-BDF1-583B12A4D593}|Presentation\\Presentation.csproj|d:\\fpt\\prn222\\assignments\\as01\\hoanghhhe182296_se1888net_as01\\a01\\hoanghhhe182296_se1888net_a01\\presentation\\views\\account\\_accounttablepartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FC8BE03D-F61A-4115-BDF1-583B12A4D593}|Presentation\\Presentation.csproj|solutionrelative:presentation\\views\\account\\_accounttablepartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DA196DD0-0A3B-48CB-87A3-DFDCF5F0CB28}|DataAccess\\DataAccess.csproj|d:\\fpt\\prn222\\assigment\\a01\\hoanghhhe182296_se1888net_a01\\dataaccess\\repositories\\categoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DA196DD0-0A3B-48CB-87A3-DFDCF5F0CB28}|DataAccess\\DataAccess.csproj|solutionrelative:dataaccess\\repositories\\categoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{DA196DD0-0A3B-48CB-87A3-DFDCF5F0CB28}|DataAccess\\DataAccess.csproj|d:\\fpt\\prn222\\assignments\\as01\\hoanghhhe182296_se1888net_as01\\a01\\hoanghhhe182296_se1888net_a01\\dataaccess\\repositories\\systemaccountrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA196DD0-0A3B-48CB-87A3-DFDCF5F0CB28}|DataAccess\\DataAccess.csproj|solutionrelative:dataaccess\\repositories\\systemaccountrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FC8BE03D-F61A-4115-BDF1-583B12A4D593}|Presentation\\Presentation.csproj|d:\\fpt\\prn222\\assigment\\a01\\hoanghhhe182296_se1888net_a01\\presentation\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{FC8BE03D-F61A-4115-BDF1-583B12A4D593}|Presentation\\Presentation.csproj|solutionrelative:presentation\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{5CAD482C-317F-4381-B262-A3CF7CE444A8}|BusinessLogic\\BusinessLogic.csproj|d:\\fpt\\prn222\\assignments\\as01\\hoanghhhe182296_se1888net_as01\\a01\\hoanghhhe182296_se1888net_a01\\businesslogic\\services\\categoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5CAD482C-317F-4381-B262-A3CF7CE444A8}|BusinessLogic\\BusinessLogic.csproj|solutionrelative:businesslogic\\services\\categoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FC8BE03D-F61A-4115-BDF1-583B12A4D593}|Presentation\\Presentation.csproj|d:\\fpt\\prn222\\assigment\\a01\\hoanghhhe182296_se1888net_a01\\presentation\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{FC8BE03D-F61A-4115-BDF1-583B12A4D593}|Presentation\\Presentation.csproj|solutionrelative:presentation\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{5CAD482C-317F-4381-B262-A3CF7CE444A8}|BusinessLogic\\BusinessLogic.csproj|d:\\fpt\\prn222\\assignments\\as01\\hoanghhhe182296_se1888net_as01\\a01\\hoanghhhe182296_se1888net_a01\\businesslogic\\rules\\systemaccountrules.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5CAD482C-317F-4381-B262-A3CF7CE444A8}|BusinessLogic\\BusinessLogic.csproj|solutionrelative:businesslogic\\rules\\systemaccountrules.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FC8BE03D-F61A-4115-BDF1-583B12A4D593}|Presentation\\Presentation.csproj|d:\\fpt\\prn222\\assigment\\a01\\hoanghhhe182296_se1888net_a01\\presentation\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{FC8BE03D-F61A-4115-BDF1-583B12A4D593}|Presentation\\Presentation.csproj|solutionrelative:presentation\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{5CAD482C-317F-4381-B262-A3CF7CE444A8}|BusinessLogic\\BusinessLogic.csproj|d:\\fpt\\prn222\\assignments\\as01\\hoanghhhe182296_se1888net_as01\\a01\\hoanghhhe182296_se1888net_a01\\businesslogic\\services\\systemaccountservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5CAD482C-317F-4381-B262-A3CF7CE444A8}|BusinessLogic\\BusinessLogic.csproj|solutionrelative:businesslogic\\services\\systemaccountservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DA196DD0-0A3B-48CB-87A3-DFDCF5F0CB28}|DataAccess\\DataAccess.csproj|d:\\fpt\\prn222\\assigment\\a01\\hoanghhhe182296_se1888net_a01\\dataaccess\\migrations\\20251014190526_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DA196DD0-0A3B-48CB-87A3-DFDCF5F0CB28}|DataAccess\\DataAccess.csproj|solutionrelative:dataaccess\\migrations\\20251014190526_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{FC8BE03D-F61A-4115-BDF1-583B12A4D593}|Presentation\\Presentation.csproj|d:\\fpt\\prn222\\assignments\\as01\\hoanghhhe182296_se1888net_as01\\a01\\hoanghhhe182296_se1888net_a01\\presentation\\view-model\\params\\accountparams.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FC8BE03D-F61A-4115-BDF1-583B12A4D593}|Presentation\\Presentation.csproj|solutionrelative:presentation\\view-model\\params\\accountparams.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FC8BE03D-F61A-4115-BDF1-583B12A4D593}|Presentation\\Presentation.csproj|d:\\fpt\\prn222\\assigment\\a01\\hoanghhhe182296_se1888net_a01\\presentation\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{FC8BE03D-F61A-4115-BDF1-583B12A4D593}|Presentation\\Presentation.csproj|solutionrelative:presentation\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{FC8BE03D-F61A-4115-BDF1-583B12A4D593}|Presentation\\Presentation.csproj|d:\\fpt\\prn222\\assignments\\as01\\hoanghhhe182296_se1888net_as01\\a01\\hoanghhhe182296_se1888net_a01\\presentation\\view-model\\data\\accountviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FC8BE03D-F61A-4115-BDF1-583B12A4D593}|Presentation\\Presentation.csproj|solutionrelative:presentation\\view-model\\data\\accountviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FC8BE03D-F61A-4115-BDF1-583B12A4D593}|Presentation\\Presentation.csproj|d:\\fpt\\prn222\\assigment\\a01\\hoanghhhe182296_se1888net_a01\\presentation\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FC8BE03D-F61A-4115-BDF1-583B12A4D593}|Presentation\\Presentation.csproj|solutionrelative:presentation\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FC8BE03D-F61A-4115-BDF1-583B12A4D593}|Presentation\\Presentation.csproj|d:\\fpt\\prn222\\assigment\\a01\\hoanghhhe182296_se1888net_a01\\presentation\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{FC8BE03D-F61A-4115-BDF1-583B12A4D593}|Presentation\\Presentation.csproj|solutionrelative:presentation\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FC8BE03D-F61A-4115-BDF1-583B12A4D593}|Presentation\\Presentation.csproj|d:\\fpt\\prn222\\assigment\\a01\\hoanghhhe182296_se1888net_a01\\presentation\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{FC8BE03D-F61A-4115-BDF1-583B12A4D593}|Presentation\\Presentation.csproj|solutionrelative:presentation\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FC8BE03D-F61A-4115-BDF1-583B12A4D593}|Presentation\\Presentation.csproj|d:\\fpt\\prn222\\assigment\\a01\\hoanghhhe182296_se1888net_a01\\presentation\\views\\category\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{FC8BE03D-F61A-4115-BDF1-583B12A4D593}|Presentation\\Presentation.csproj|solutionrelative:presentation\\views\\category\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FC8BE03D-F61A-4115-BDF1-583B12A4D593}|Presentation\\Presentation.csproj|d:\\fpt\\prn222\\assigment\\a01\\hoanghhhe182296_se1888net_a01\\presentation\\views\\shared\\navbar\\_navadmin.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{FC8BE03D-F61A-4115-BDF1-583B12A4D593}|Presentation\\Presentation.csproj|solutionrelative:presentation\\views\\shared\\navbar\\_navadmin.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FC8BE03D-F61A-4115-BDF1-583B12A4D593}|Presentation\\Presentation.csproj|d:\\fpt\\prn222\\assigment\\a01\\hoanghhhe182296_se1888net_a01\\presentation\\views\\category\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{FC8BE03D-F61A-4115-BDF1-583B12A4D593}|Presentation\\Presentation.csproj|solutionrelative:presentation\\views\\category\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DA196DD0-0A3B-48CB-87A3-DFDCF5F0CB28}|DataAccess\\DataAccess.csproj|d:\\fpt\\prn222\\assigment\\a01\\hoanghhhe182296_se1888net_a01\\dataaccess\\entities\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DA196DD0-0A3B-48CB-87A3-DFDCF5F0CB28}|DataAccess\\DataAccess.csproj|solutionrelative:dataaccess\\entities\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FC8BE03D-F61A-4115-BDF1-583B12A4D593}|Presentation\\Presentation.csproj|d:\\fpt\\prn222\\assigment\\a01\\hoanghhhe182296_se1888net_a01\\presentation\\wwwroot\\js\\site.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "AbsoluteMoniker": "D:0:0:{FC8BE03D-F61A-4115-BDF1-583B12A4D593}|Presentation\\Presentation.csproj|d:\\fpt\\prn222\\assignments\\as01\\hoanghhhe182296_se1888net_as01\\a01\\hoanghhhe182296_se1888net_a01\\presentation\\wwwroot\\js\\site.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
       "RelativeMoniker": "D:0:0:{FC8BE03D-F61A-4115-BDF1-583B12A4D593}|Presentation\\Presentation.csproj|solutionrelative:presentation\\wwwroot\\js\\site.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DA196DD0-0A3B-48CB-87A3-DFDCF5F0CB28}|DataAccess\\DataAccess.csproj|d:\\fpt\\prn222\\assigment\\a01\\hoanghhhe182296_se1888net_a01\\dataaccess\\migrations\\applicationdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DA196DD0-0A3B-48CB-87A3-DFDCF5F0CB28}|DataAccess\\DataAccess.csproj|solutionrelative:dataaccess\\migrations\\applicationdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{FC8BE03D-F61A-4115-BDF1-583B12A4D593}|Presentation\\Presentation.csproj|d:\\fpt\\prn222\\assignments\\as01\\hoanghhhe182296_se1888net_as01\\a01\\hoanghhhe182296_se1888net_a01\\presentation\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FC8BE03D-F61A-4115-BDF1-583B12A4D593}|Presentation\\Presentation.csproj|solutionrelative:presentation\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FC8BE03D-F61A-4115-BDF1-583B12A4D593}|Presentation\\Presentation.csproj|d:\\fpt\\prn222\\assigment\\a01\\hoanghhhe182296_se1888net_a01\\presentation\\views\\shared\\navbar\\_navlecture.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{FC8BE03D-F61A-4115-BDF1-583B12A4D593}|Presentation\\Presentation.csproj|solutionrelative:presentation\\views\\shared\\navbar\\_navlecture.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{258C0B2E-6C35-4686-9470-3E625495AECD}|Core\\Core.csproj|d:\\fpt\\prn222\\assignments\\as01\\hoanghhhe182296_se1888net_as01\\a01\\hoanghhhe182296_se1888net_a01\\core\\enums\\accountenum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{258C0B2E-6C35-4686-9470-3E625495AECD}|Core\\Core.csproj|solutionrelative:core\\enums\\accountenum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DA196DD0-0A3B-48CB-87A3-DFDCF5F0CB28}|DataAccess\\DataAccess.csproj|d:\\fpt\\prn222\\assigment\\a01\\hoanghhhe182296_se1888net_a01\\dataaccess\\dataaccess.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{DA196DD0-0A3B-48CB-87A3-DFDCF5F0CB28}|DataAccess\\DataAccess.csproj|solutionrelative:dataaccess\\dataaccess.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+      "AbsoluteMoniker": "D:0:0:{258C0B2E-6C35-4686-9470-3E625495AECD}|Core\\Core.csproj|d:\\fpt\\prn222\\assignments\\as01\\hoanghhhe182296_se1888net_as01\\a01\\hoanghhhe182296_se1888net_a01\\core\\constants\\account\\accountmodalconst.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{258C0B2E-6C35-4686-9470-3E625495AECD}|Core\\Core.csproj|solutionrelative:core\\constants\\account\\accountmodalconst.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{258C0B2E-6C35-4686-9470-3E625495AECD}|Core\\Core.csproj|d:\\fpt\\prn222\\assigment\\a01\\hoanghhhe182296_se1888net_a01\\core\\core.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{258C0B2E-6C35-4686-9470-3E625495AECD}|Core\\Core.csproj|solutionrelative:core\\core.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+      "AbsoluteMoniker": "D:0:0:{FC8BE03D-F61A-4115-BDF1-583B12A4D593}|Presentation\\Presentation.csproj|d:\\fpt\\prn222\\assignments\\as01\\hoanghhhe182296_se1888net_as01\\a01\\hoanghhhe182296_se1888net_a01\\presentation\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FC8BE03D-F61A-4115-BDF1-583B12A4D593}|Presentation\\Presentation.csproj|solutionrelative:presentation\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FC8BE03D-F61A-4115-BDF1-583B12A4D593}|Presentation\\Presentation.csproj|d:\\fpt\\prn222\\assigment\\a01\\hoanghhhe182296_se1888net_a01\\presentation\\views\\category\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{FC8BE03D-F61A-4115-BDF1-583B12A4D593}|Presentation\\Presentation.csproj|solutionrelative:presentation\\views\\category\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{5CAD482C-317F-4381-B262-A3CF7CE444A8}|BusinessLogic\\BusinessLogic.csproj|d:\\fpt\\prn222\\assignments\\as01\\hoanghhhe182296_se1888net_as01\\a01\\hoanghhhe182296_se1888net_a01\\businesslogic\\dtos\\requests\\systemaccountrequests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5CAD482C-317F-4381-B262-A3CF7CE444A8}|BusinessLogic\\BusinessLogic.csproj|solutionrelative:businesslogic\\dtos\\requests\\systemaccountrequests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DA196DD0-0A3B-48CB-87A3-DFDCF5F0CB28}|DataAccess\\DataAccess.csproj|d:\\fpt\\prn222\\assigment\\a01\\hoanghhhe182296_se1888net_a01\\dataaccess\\entities\\tag.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DA196DD0-0A3B-48CB-87A3-DFDCF5F0CB28}|DataAccess\\DataAccess.csproj|solutionrelative:dataaccess\\entities\\tag.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{DA196DD0-0A3B-48CB-87A3-DFDCF5F0CB28}|DataAccess\\DataAccess.csproj|d:\\fpt\\prn222\\assignments\\as01\\hoanghhhe182296_se1888net_as01\\a01\\hoanghhhe182296_se1888net_a01\\dataaccess\\repositories\\categoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA196DD0-0A3B-48CB-87A3-DFDCF5F0CB28}|DataAccess\\DataAccess.csproj|solutionrelative:dataaccess\\repositories\\categoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DA196DD0-0A3B-48CB-87A3-DFDCF5F0CB28}|DataAccess\\DataAccess.csproj|d:\\fpt\\prn222\\assigment\\a01\\hoanghhhe182296_se1888net_a01\\dataaccess\\entities\\newsarticle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{FC8BE03D-F61A-4115-BDF1-583B12A4D593}|Presentation\\Presentation.csproj|d:\\fpt\\prn222\\assignments\\as01\\hoanghhhe182296_se1888net_as01\\a01\\hoanghhhe182296_se1888net_a01\\presentation\\views\\account\\modal\\createupdatemodal.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FC8BE03D-F61A-4115-BDF1-583B12A4D593}|Presentation\\Presentation.csproj|solutionrelative:presentation\\views\\account\\modal\\createupdatemodal.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC8BE03D-F61A-4115-BDF1-583B12A4D593}|Presentation\\Presentation.csproj|d:\\fpt\\prn222\\assignments\\as01\\hoanghhhe182296_se1888net_as01\\a01\\hoanghhhe182296_se1888net_a01\\presentation\\views\\account\\modal\\changepassword.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FC8BE03D-F61A-4115-BDF1-583B12A4D593}|Presentation\\Presentation.csproj|solutionrelative:presentation\\views\\account\\modal\\changepassword.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA196DD0-0A3B-48CB-87A3-DFDCF5F0CB28}|DataAccess\\DataAccess.csproj|d:\\fpt\\prn222\\assignments\\as01\\hoanghhhe182296_se1888net_as01\\a01\\hoanghhhe182296_se1888net_a01\\dataaccess\\entities\\newsarticle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{DA196DD0-0A3B-48CB-87A3-DFDCF5F0CB28}|DataAccess\\DataAccess.csproj|solutionrelative:dataaccess\\entities\\newsarticle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DA196DD0-0A3B-48CB-87A3-DFDCF5F0CB28}|DataAccess\\DataAccess.csproj|d:\\fpt\\prn222\\assigment\\a01\\hoanghhhe182296_se1888net_a01\\dataaccess\\context\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{DA196DD0-0A3B-48CB-87A3-DFDCF5F0CB28}|DataAccess\\DataAccess.csproj|d:\\fpt\\prn222\\assignments\\as01\\hoanghhhe182296_se1888net_as01\\a01\\hoanghhhe182296_se1888net_a01\\dataaccess\\repositories\\newsarticlerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA196DD0-0A3B-48CB-87A3-DFDCF5F0CB28}|DataAccess\\DataAccess.csproj|solutionrelative:dataaccess\\repositories\\newsarticlerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA196DD0-0A3B-48CB-87A3-DFDCF5F0CB28}|DataAccess\\DataAccess.csproj|d:\\fpt\\prn222\\assignments\\as01\\hoanghhhe182296_se1888net_as01\\a01\\hoanghhhe182296_se1888net_a01\\dataaccess\\repositories\\inewsarticlerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA196DD0-0A3B-48CB-87A3-DFDCF5F0CB28}|DataAccess\\DataAccess.csproj|solutionrelative:dataaccess\\repositories\\inewsarticlerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA196DD0-0A3B-48CB-87A3-DFDCF5F0CB28}|DataAccess\\DataAccess.csproj|d:\\fpt\\prn222\\assignments\\as01\\hoanghhhe182296_se1888net_as01\\a01\\hoanghhhe182296_se1888net_a01\\dataaccess\\context\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{DA196DD0-0A3B-48CB-87A3-DFDCF5F0CB28}|DataAccess\\DataAccess.csproj|solutionrelative:dataaccess\\context\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FC8BE03D-F61A-4115-BDF1-583B12A4D593}|Presentation\\Presentation.csproj|d:\\fpt\\prn222\\assigment\\a01\\hoanghhhe182296_se1888net_a01\\presentation\\presentation.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "AbsoluteMoniker": "D:0:0:{FC8BE03D-F61A-4115-BDF1-583B12A4D593}|Presentation\\Presentation.csproj|d:\\fpt\\prn222\\assignments\\as01\\hoanghhhe182296_se1888net_as01\\a01\\hoanghhhe182296_se1888net_a01\\presentation\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FC8BE03D-F61A-4115-BDF1-583B12A4D593}|Presentation\\Presentation.csproj|solutionrelative:presentation\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5CAD482C-317F-4381-B262-A3CF7CE444A8}|BusinessLogic\\BusinessLogic.csproj|d:\\fpt\\prn222\\assignments\\as01\\hoanghhhe182296_se1888net_as01\\a01\\hoanghhhe182296_se1888net_a01\\businesslogic\\dtos\\response\\systemaccountresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5CAD482C-317F-4381-B262-A3CF7CE444A8}|BusinessLogic\\BusinessLogic.csproj|solutionrelative:businesslogic\\dtos\\response\\systemaccountresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5CAD482C-317F-4381-B262-A3CF7CE444A8}|BusinessLogic\\BusinessLogic.csproj|d:\\fpt\\prn222\\assignments\\as01\\hoanghhhe182296_se1888net_as01\\a01\\hoanghhhe182296_se1888net_a01\\businesslogic\\dtos\\response\\newsarticleresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5CAD482C-317F-4381-B262-A3CF7CE444A8}|BusinessLogic\\BusinessLogic.csproj|solutionrelative:businesslogic\\dtos\\response\\newsarticleresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5CAD482C-317F-4381-B262-A3CF7CE444A8}|BusinessLogic\\BusinessLogic.csproj|d:\\fpt\\prn222\\assignments\\as01\\hoanghhhe182296_se1888net_as01\\a01\\hoanghhhe182296_se1888net_a01\\businesslogic\\dtos\\categorydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5CAD482C-317F-4381-B262-A3CF7CE444A8}|BusinessLogic\\BusinessLogic.csproj|solutionrelative:businesslogic\\dtos\\categorydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5CAD482C-317F-4381-B262-A3CF7CE444A8}|BusinessLogic\\BusinessLogic.csproj|d:\\fpt\\prn222\\assignments\\as01\\hoanghhhe182296_se1888net_as01\\a01\\hoanghhhe182296_se1888net_a01\\businesslogic\\validation\\systemaccountvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5CAD482C-317F-4381-B262-A3CF7CE444A8}|BusinessLogic\\BusinessLogic.csproj|solutionrelative:businesslogic\\validation\\systemaccountvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC8BE03D-F61A-4115-BDF1-583B12A4D593}|Presentation\\Presentation.csproj|d:\\fpt\\prn222\\assignments\\as01\\hoanghhhe182296_se1888net_as01\\a01\\hoanghhhe182296_se1888net_a01\\presentation\\views\\account\\modal\\deletemodal.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FC8BE03D-F61A-4115-BDF1-583B12A4D593}|Presentation\\Presentation.csproj|solutionrelative:presentation\\views\\account\\modal\\deletemodal.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5CAD482C-317F-4381-B262-A3CF7CE444A8}|BusinessLogic\\BusinessLogic.csproj|d:\\fpt\\prn222\\assignments\\as01\\hoanghhhe182296_se1888net_as01\\a01\\hoanghhhe182296_se1888net_a01\\businesslogic\\validation\\categoryvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5CAD482C-317F-4381-B262-A3CF7CE444A8}|BusinessLogic\\BusinessLogic.csproj|solutionrelative:businesslogic\\validation\\categoryvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA196DD0-0A3B-48CB-87A3-DFDCF5F0CB28}|DataAccess\\DataAccess.csproj|d:\\fpt\\prn222\\assignments\\as01\\hoanghhhe182296_se1888net_as01\\a01\\hoanghhhe182296_se1888net_a01\\dataaccess\\repositories\\isystemaccountrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA196DD0-0A3B-48CB-87A3-DFDCF5F0CB28}|DataAccess\\DataAccess.csproj|solutionrelative:dataaccess\\repositories\\isystemaccountrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA196DD0-0A3B-48CB-87A3-DFDCF5F0CB28}|DataAccess\\DataAccess.csproj|d:\\fpt\\prn222\\assignments\\as01\\hoanghhhe182296_se1888net_as01\\a01\\hoanghhhe182296_se1888net_a01\\dataaccess\\repositories\\icategoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA196DD0-0A3B-48CB-87A3-DFDCF5F0CB28}|DataAccess\\DataAccess.csproj|solutionrelative:dataaccess\\repositories\\icategoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC8BE03D-F61A-4115-BDF1-583B12A4D593}|Presentation\\Presentation.csproj|d:\\fpt\\prn222\\assignments\\as01\\hoanghhhe182296_se1888net_as01\\a01\\hoanghhhe182296_se1888net_a01\\presentation\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FC8BE03D-F61A-4115-BDF1-583B12A4D593}|Presentation\\Presentation.csproj|solutionrelative:presentation\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA196DD0-0A3B-48CB-87A3-DFDCF5F0CB28}|DataAccess\\DataAccess.csproj|d:\\fpt\\prn222\\assignments\\as01\\hoanghhhe182296_se1888net_as01\\a01\\hoanghhhe182296_se1888net_a01\\dataaccess\\entities\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA196DD0-0A3B-48CB-87A3-DFDCF5F0CB28}|DataAccess\\DataAccess.csproj|solutionrelative:dataaccess\\entities\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA196DD0-0A3B-48CB-87A3-DFDCF5F0CB28}|DataAccess\\DataAccess.csproj|d:\\fpt\\prn222\\assignments\\as01\\hoanghhhe182296_se1888net_as01\\a01\\hoanghhhe182296_se1888net_a01\\dataaccess\\entities\\systemaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA196DD0-0A3B-48CB-87A3-DFDCF5F0CB28}|DataAccess\\DataAccess.csproj|solutionrelative:dataaccess\\entities\\systemaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC8BE03D-F61A-4115-BDF1-583B12A4D593}|Presentation\\Presentation.csproj|d:\\fpt\\prn222\\assignments\\as01\\hoanghhhe182296_se1888net_as01\\a01\\hoanghhhe182296_se1888net_a01\\presentation\\presentation.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
       "RelativeMoniker": "D:0:0:{FC8BE03D-F61A-4115-BDF1-583B12A4D593}|Presentation\\Presentation.csproj|solutionrelative:presentation\\presentation.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5CAD482C-317F-4381-B262-A3CF7CE444A8}|BusinessLogic\\BusinessLogic.csproj|d:\\fpt\\prn222\\assigment\\a01\\hoanghhhe182296_se1888net_a01\\businesslogic\\businesslogic.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "AbsoluteMoniker": "D:0:0:{FC8BE03D-F61A-4115-BDF1-583B12A4D593}|Presentation\\Presentation.csproj|d:\\fpt\\prn222\\assignments\\as01\\hoanghhhe182296_se1888net_as01\\a01\\hoanghhhe182296_se1888net_a01\\presentation\\views\\category\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FC8BE03D-F61A-4115-BDF1-583B12A4D593}|Presentation\\Presentation.csproj|solutionrelative:presentation\\views\\category\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC8BE03D-F61A-4115-BDF1-583B12A4D593}|Presentation\\Presentation.csproj|d:\\fpt\\prn222\\assignments\\as01\\hoanghhhe182296_se1888net_as01\\a01\\hoanghhhe182296_se1888net_a01\\presentation\\views\\account\\wpwsg0qf.xcf~||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{FC8BE03D-F61A-4115-BDF1-583B12A4D593}|Presentation\\Presentation.csproj|solutionrelative:presentation\\views\\account\\wpwsg0qf.xcf~||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC8BE03D-F61A-4115-BDF1-583B12A4D593}|Presentation\\Presentation.csproj|d:\\fpt\\prn222\\assignments\\as01\\hoanghhhe182296_se1888net_as01\\a01\\hoanghhhe182296_se1888net_a01\\presentation\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{FC8BE03D-F61A-4115-BDF1-583B12A4D593}|Presentation\\Presentation.csproj|solutionrelative:presentation\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC8BE03D-F61A-4115-BDF1-583B12A4D593}|Presentation\\Presentation.csproj|d:\\fpt\\prn222\\assignments\\as01\\hoanghhhe182296_se1888net_as01\\a01\\hoanghhhe182296_se1888net_a01\\presentation\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FC8BE03D-F61A-4115-BDF1-583B12A4D593}|Presentation\\Presentation.csproj|solutionrelative:presentation\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5CAD482C-317F-4381-B262-A3CF7CE444A8}|BusinessLogic\\BusinessLogic.csproj|d:\\fpt\\prn222\\assignments\\as01\\hoanghhhe182296_se1888net_as01\\a01\\hoanghhhe182296_se1888net_a01\\businesslogic\\businesslogic.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
       "RelativeMoniker": "D:0:0:{5CAD482C-317F-4381-B262-A3CF7CE444A8}|BusinessLogic\\BusinessLogic.csproj|solutionrelative:businesslogic\\businesslogic.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA196DD0-0A3B-48CB-87A3-DFDCF5F0CB28}|DataAccess\\DataAccess.csproj|d:\\fpt\\prn222\\assignments\\as01\\hoanghhhe182296_se1888net_as01\\a01\\hoanghhhe182296_se1888net_a01\\dataaccess\\entities\\tag.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA196DD0-0A3B-48CB-87A3-DFDCF5F0CB28}|DataAccess\\DataAccess.csproj|solutionrelative:dataaccess\\entities\\tag.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC8BE03D-F61A-4115-BDF1-583B12A4D593}|Presentation\\Presentation.csproj|d:\\fpt\\prn222\\assignments\\as01\\hoanghhhe182296_se1888net_as01\\a01\\hoanghhhe182296_se1888net_a01\\presentation\\views\\shared\\navbar\\_navadmin.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FC8BE03D-F61A-4115-BDF1-583B12A4D593}|Presentation\\Presentation.csproj|solutionrelative:presentation\\views\\shared\\navbar\\_navadmin.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC8BE03D-F61A-4115-BDF1-583B12A4D593}|Presentation\\Presentation.csproj|d:\\fpt\\prn222\\assignments\\as01\\hoanghhhe182296_se1888net_as01\\a01\\hoanghhhe182296_se1888net_a01\\presentation\\views\\shared\\navbar\\_navlecture.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FC8BE03D-F61A-4115-BDF1-583B12A4D593}|Presentation\\Presentation.csproj|solutionrelative:presentation\\views\\shared\\navbar\\_navlecture.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC8BE03D-F61A-4115-BDF1-583B12A4D593}|Presentation\\Presentation.csproj|d:\\fpt\\prn222\\assignments\\as01\\hoanghhhe182296_se1888net_as01\\a01\\hoanghhhe182296_se1888net_a01\\presentation\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FC8BE03D-F61A-4115-BDF1-583B12A4D593}|Presentation\\Presentation.csproj|solutionrelative:presentation\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC8BE03D-F61A-4115-BDF1-583B12A4D593}|Presentation\\Presentation.csproj|d:\\fpt\\prn222\\assignments\\as01\\hoanghhhe182296_se1888net_as01\\a01\\hoanghhhe182296_se1888net_a01\\presentation\\views\\shared\\_notification.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FC8BE03D-F61A-4115-BDF1-583B12A4D593}|Presentation\\Presentation.csproj|solutionrelative:presentation\\views\\shared\\_notification.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC8BE03D-F61A-4115-BDF1-583B12A4D593}|Presentation\\Presentation.csproj|d:\\fpt\\prn222\\assignments\\as01\\hoanghhhe182296_se1888net_as01\\a01\\hoanghhhe182296_se1888net_a01\\presentation\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FC8BE03D-F61A-4115-BDF1-583B12A4D593}|Presentation\\Presentation.csproj|solutionrelative:presentation\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC8BE03D-F61A-4115-BDF1-583B12A4D593}|Presentation\\Presentation.csproj|d:\\fpt\\prn222\\assignments\\as01\\hoanghhhe182296_se1888net_as01\\a01\\hoanghhhe182296_se1888net_a01\\presentation\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FC8BE03D-F61A-4115-BDF1-583B12A4D593}|Presentation\\Presentation.csproj|solutionrelative:presentation\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC8BE03D-F61A-4115-BDF1-583B12A4D593}|Presentation\\Presentation.csproj|d:\\fpt\\prn222\\assignments\\as01\\hoanghhhe182296_se1888net_as01\\a01\\hoanghhhe182296_se1888net_a01\\presentation\\views\\category\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FC8BE03D-F61A-4115-BDF1-583B12A4D593}|Presentation\\Presentation.csproj|solutionrelative:presentation\\views\\category\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{258C0B2E-6C35-4686-9470-3E625495AECD}|Core\\Core.csproj|d:\\fpt\\prn222\\assignments\\as01\\hoanghhhe182296_se1888net_as01\\a01\\hoanghhhe182296_se1888net_a01\\core\\core.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{258C0B2E-6C35-4686-9470-3E625495AECD}|Core\\Core.csproj|solutionrelative:core\\core.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC8BE03D-F61A-4115-BDF1-583B12A4D593}|Presentation\\Presentation.csproj|d:\\fpt\\prn222\\assignments\\as01\\hoanghhhe182296_se1888net_as01\\a01\\hoanghhhe182296_se1888net_a01\\presentation\\views\\shared\\navbar\\_navstaff.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FC8BE03D-F61A-4115-BDF1-583B12A4D593}|Presentation\\Presentation.csproj|solutionrelative:presentation\\views\\shared\\navbar\\_navstaff.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC8BE03D-F61A-4115-BDF1-583B12A4D593}|Presentation\\Presentation.csproj|d:\\fpt\\prn222\\assignments\\as01\\hoanghhhe182296_se1888net_as01\\a01\\hoanghhhe182296_se1888net_a01\\presentation\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FC8BE03D-F61A-4115-BDF1-583B12A4D593}|Presentation\\Presentation.csproj|solutionrelative:presentation\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA196DD0-0A3B-48CB-87A3-DFDCF5F0CB28}|DataAccess\\DataAccess.csproj|d:\\fpt\\prn222\\assignments\\as01\\hoanghhhe182296_se1888net_as01\\a01\\hoanghhhe182296_se1888net_a01\\dataaccess\\migrations\\20251014190526_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA196DD0-0A3B-48CB-87A3-DFDCF5F0CB28}|DataAccess\\DataAccess.csproj|solutionrelative:dataaccess\\migrations\\20251014190526_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC8BE03D-F61A-4115-BDF1-583B12A4D593}|Presentation\\Presentation.csproj|d:\\fpt\\prn222\\assignments\\as01\\hoanghhhe182296_se1888net_as01\\a01\\hoanghhhe182296_se1888net_a01\\presentation\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FC8BE03D-F61A-4115-BDF1-583B12A4D593}|Presentation\\Presentation.csproj|solutionrelative:presentation\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC8BE03D-F61A-4115-BDF1-583B12A4D593}|Presentation\\Presentation.csproj|d:\\fpt\\prn222\\assignments\\as01\\hoanghhhe182296_se1888net_as01\\a01\\hoanghhhe182296_se1888net_a01\\presentation\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FC8BE03D-F61A-4115-BDF1-583B12A4D593}|Presentation\\Presentation.csproj|solutionrelative:presentation\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC8BE03D-F61A-4115-BDF1-583B12A4D593}|Presentation\\Presentation.csproj|d:\\fpt\\prn222\\assignments\\as01\\hoanghhhe182296_se1888net_as01\\a01\\hoanghhhe182296_se1888net_a01\\presentation\\views\\category\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FC8BE03D-F61A-4115-BDF1-583B12A4D593}|Presentation\\Presentation.csproj|solutionrelative:presentation\\views\\category\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA196DD0-0A3B-48CB-87A3-DFDCF5F0CB28}|DataAccess\\DataAccess.csproj|d:\\fpt\\prn222\\assignments\\as01\\hoanghhhe182296_se1888net_as01\\a01\\hoanghhhe182296_se1888net_a01\\dataaccess\\migrations\\applicationdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA196DD0-0A3B-48CB-87A3-DFDCF5F0CB28}|DataAccess\\DataAccess.csproj|solutionrelative:dataaccess\\migrations\\applicationdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA196DD0-0A3B-48CB-87A3-DFDCF5F0CB28}|DataAccess\\DataAccess.csproj|d:\\fpt\\prn222\\assignments\\as01\\hoanghhhe182296_se1888net_as01\\a01\\hoanghhhe182296_se1888net_a01\\dataaccess\\dataaccess.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{DA196DD0-0A3B-48CB-87A3-DFDCF5F0CB28}|DataAccess\\DataAccess.csproj|solutionrelative:dataaccess\\dataaccess.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     }
   ],
   "DocumentGroupContainers": [
@@ -222,7 +254,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 9,
+          "SelectedChildIndex": 7,
           "Children": [
             {
               "$type": "Bookmark",
@@ -230,271 +262,63 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 6,
               "Title": "_AccountTablePartial.cshtml",
-              "DocumentMoniker": "D:\\FPT\\PRN222\\Assigment\\A01\\HoangHHHE182296_SE1888NET_A01\\Presentation\\Views\\Account\\_AccountTablePartial.cshtml",
+              "DocumentMoniker": "D:\\FPT\\PRN222\\Assignments\\AS01\\HoangHHHE182296_SE1888NET_AS01\\A01\\HoangHHHE182296_SE1888NET_A01\\Presentation\\Views\\Account\\_AccountTablePartial.cshtml",
               "RelativeDocumentMoniker": "Presentation\\Views\\Account\\_AccountTablePartial.cshtml",
-              "ToolTip": "D:\\FPT\\PRN222\\Assigment\\A01\\HoangHHHE182296_SE1888NET_A01\\Presentation\\Views\\Account\\_AccountTablePartial.cshtml",
+              "ToolTip": "D:\\FPT\\PRN222\\Assignments\\AS01\\HoangHHHE182296_SE1888NET_AS01\\A01\\HoangHHHE182296_SE1888NET_A01\\Presentation\\Views\\Account\\_AccountTablePartial.cshtml",
               "RelativeToolTip": "Presentation\\Views\\Account\\_AccountTablePartial.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACUAAAAIAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-10-17T05:33:35.438Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "CategoryDTO.cs",
-              "DocumentMoniker": "D:\\FPT\\PRN222\\Assigment\\A01\\HoangHHHE182296_SE1888NET_A01\\BusinessLogic\\DTOs\\CategoryDTO.cs",
-              "RelativeDocumentMoniker": "BusinessLogic\\DTOs\\CategoryDTO.cs",
-              "ToolTip": "D:\\FPT\\PRN222\\Assigment\\A01\\HoangHHHE182296_SE1888NET_A01\\BusinessLogic\\DTOs\\CategoryDTO.cs",
-              "RelativeToolTip": "BusinessLogic\\DTOs\\CategoryDTO.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-15T09:17:45.866Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "ChangePassword.cshtml",
-              "DocumentMoniker": "D:\\FPT\\PRN222\\Assigment\\A01\\HoangHHHE182296_SE1888NET_A01\\Presentation\\Views\\Account\\Modal\\ChangePassword.cshtml",
-              "RelativeDocumentMoniker": "Presentation\\Views\\Account\\Modal\\ChangePassword.cshtml",
-              "ToolTip": "D:\\FPT\\PRN222\\Assigment\\A01\\HoangHHHE182296_SE1888NET_A01\\Presentation\\Views\\Account\\Modal\\ChangePassword.cshtml",
-              "RelativeToolTip": "Presentation\\Views\\Account\\Modal\\ChangePassword.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-10-17T02:29:00.109Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 5,
-              "Title": "CreateUpdateModal.cshtml",
-              "DocumentMoniker": "D:\\FPT\\PRN222\\Assigment\\A01\\HoangHHHE182296_SE1888NET_A01\\Presentation\\Views\\Account\\Modal\\CreateUpdateModal.cshtml",
-              "RelativeDocumentMoniker": "Presentation\\Views\\Account\\Modal\\CreateUpdateModal.cshtml",
-              "ToolTip": "D:\\FPT\\PRN222\\Assigment\\A01\\HoangHHHE182296_SE1888NET_A01\\Presentation\\Views\\Account\\Modal\\CreateUpdateModal.cshtml",
-              "RelativeToolTip": "Presentation\\Views\\Account\\Modal\\CreateUpdateModal.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-10-17T02:27:41.059Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "DeleteModal.cshtml",
-              "DocumentMoniker": "D:\\FPT\\PRN222\\Assigment\\A01\\HoangHHHE182296_SE1888NET_A01\\Presentation\\Views\\Account\\Modal\\DeleteModal.cshtml",
-              "RelativeDocumentMoniker": "Presentation\\Views\\Account\\Modal\\DeleteModal.cshtml",
-              "ToolTip": "D:\\FPT\\PRN222\\Assigment\\A01\\HoangHHHE182296_SE1888NET_A01\\Presentation\\Views\\Account\\Modal\\DeleteModal.cshtml",
-              "RelativeToolTip": "Presentation\\Views\\Account\\Modal\\DeleteModal.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-10-16T14:13:47.3Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "account.js",
-              "DocumentMoniker": "D:\\FPT\\PRN222\\Assigment\\A01\\HoangHHHE182296_SE1888NET_A01\\Presentation\\wwwroot\\js\\account.js",
-              "RelativeDocumentMoniker": "Presentation\\wwwroot\\js\\account.js",
-              "ToolTip": "D:\\FPT\\PRN222\\Assigment\\A01\\HoangHHHE182296_SE1888NET_A01\\Presentation\\wwwroot\\js\\account.js",
-              "RelativeToolTip": "Presentation\\wwwroot\\js\\account.js",
-              "ViewState": "AgIAAJMAAAAAAAAAAAAqwMMAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
-              "WhenOpened": "2025-10-16T14:32:30.737Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "AccountViewModel.cs",
-              "DocumentMoniker": "D:\\FPT\\PRN222\\Assigment\\A01\\HoangHHHE182296_SE1888NET_A01\\Presentation\\View-Model\\AccountViewModel.cs",
-              "RelativeDocumentMoniker": "Presentation\\View-Model\\AccountViewModel.cs",
-              "ToolTip": "D:\\FPT\\PRN222\\Assigment\\A01\\HoangHHHE182296_SE1888NET_A01\\Presentation\\View-Model\\AccountViewModel.cs",
-              "RelativeToolTip": "Presentation\\View-Model\\AccountViewModel.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAARAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-15T17:14:43.201Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "_Layout.cshtml",
-              "DocumentMoniker": "D:\\FPT\\PRN222\\Assigment\\A01\\HoangHHHE182296_SE1888NET_A01\\Presentation\\Views\\Shared\\_Layout.cshtml",
-              "RelativeDocumentMoniker": "Presentation\\Views\\Shared\\_Layout.cshtml",
-              "ToolTip": "D:\\FPT\\PRN222\\Assigment\\A01\\HoangHHHE182296_SE1888NET_A01\\Presentation\\Views\\Shared\\_Layout.cshtml",
-              "RelativeToolTip": "Presentation\\Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AgIAABIAAAAAAAAAAAAAAFcAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-10-15T10:06:13.654Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "_NavStaff.cshtml",
-              "DocumentMoniker": "D:\\FPT\\PRN222\\Assigment\\A01\\HoangHHHE182296_SE1888NET_A01\\Presentation\\Views\\Shared\\Navbar\\_NavStaff.cshtml",
-              "RelativeDocumentMoniker": "Presentation\\Views\\Shared\\Navbar\\_NavStaff.cshtml",
-              "ToolTip": "D:\\FPT\\PRN222\\Assigment\\A01\\HoangHHHE182296_SE1888NET_A01\\Presentation\\Views\\Shared\\Navbar\\_NavStaff.cshtml",
-              "RelativeToolTip": "Presentation\\Views\\Shared\\Navbar\\_NavStaff.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-10-16T03:15:22.028Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "Login.cshtml",
-              "DocumentMoniker": "D:\\FPT\\PRN222\\Assigment\\A01\\HoangHHHE182296_SE1888NET_A01\\Presentation\\Views\\Account\\Login.cshtml",
-              "RelativeDocumentMoniker": "Presentation\\Views\\Account\\Login.cshtml",
-              "ToolTip": "D:\\FPT\\PRN222\\Assigment\\A01\\HoangHHHE182296_SE1888NET_A01\\Presentation\\Views\\Account\\Login.cshtml",
-              "RelativeToolTip": "Presentation\\Views\\Account\\Login.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACoAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-10-15T13:56:34.192Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
               "Title": "ListAccount.cshtml",
-              "DocumentMoniker": "D:\\FPT\\PRN222\\Assigment\\A01\\HoangHHHE182296_SE1888NET_A01\\Presentation\\Views\\Account\\ListAccount.cshtml",
+              "DocumentMoniker": "D:\\FPT\\PRN222\\Assignments\\AS01\\HoangHHHE182296_SE1888NET_AS01\\A01\\HoangHHHE182296_SE1888NET_A01\\Presentation\\Views\\Account\\ListAccount.cshtml",
               "RelativeDocumentMoniker": "Presentation\\Views\\Account\\ListAccount.cshtml",
-              "ToolTip": "D:\\FPT\\PRN222\\Assigment\\A01\\HoangHHHE182296_SE1888NET_A01\\Presentation\\Views\\Account\\ListAccount.cshtml",
+              "ToolTip": "D:\\FPT\\PRN222\\Assignments\\AS01\\HoangHHHE182296_SE1888NET_AS01\\A01\\HoangHHHE182296_SE1888NET_A01\\Presentation\\Views\\Account\\ListAccount.cshtml",
               "RelativeToolTip": "Presentation\\Views\\Account\\ListAccount.cshtml",
-              "ViewState": "AgIAAC0AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAAmAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-10-16T16:27:09.756Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "AccountRole.cs",
-              "DocumentMoniker": "D:\\FPT\\PRN222\\Assigment\\A01\\HoangHHHE182296_SE1888NET_A01\\Core\\Enums\\AccountRole.cs",
-              "RelativeDocumentMoniker": "Core\\Enums\\AccountRole.cs",
-              "ToolTip": "D:\\FPT\\PRN222\\Assigment\\A01\\HoangHHHE182296_SE1888NET_A01\\Core\\Enums\\AccountRole.cs",
-              "RelativeToolTip": "Core\\Enums\\AccountRole.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 4,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "D:\\FPT\\PRN222\\Assignments\\AS01\\HoangHHHE182296_SE1888NET_AS01\\A01\\HoangHHHE182296_SE1888NET_A01\\Presentation\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "Presentation\\Controllers\\AccountController.cs",
+              "ToolTip": "D:\\FPT\\PRN222\\Assignments\\AS01\\HoangHHHE182296_SE1888NET_AS01\\A01\\HoangHHHE182296_SE1888NET_A01\\Presentation\\Controllers\\AccountController.cs",
+              "RelativeToolTip": "Presentation\\Controllers\\AccountController.cs",
+              "ViewState": "AgIAAJgAAAAAAAAAAAAgwDgAAAA6AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-16T01:42:31.258Z",
+              "WhenOpened": "2025-10-16T16:00:01.716Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "SystemAccountService.cs",
-              "DocumentMoniker": "D:\\FPT\\PRN222\\Assigment\\A01\\HoangHHHE182296_SE1888NET_A01\\BusinessLogic\\Services\\SystemAccountService.cs",
-              "RelativeDocumentMoniker": "BusinessLogic\\Services\\SystemAccountService.cs",
-              "ToolTip": "D:\\FPT\\PRN222\\Assigment\\A01\\HoangHHHE182296_SE1888NET_A01\\BusinessLogic\\Services\\SystemAccountService.cs",
-              "RelativeToolTip": "BusinessLogic\\Services\\SystemAccountService.cs",
-              "ViewState": "AgIAACMAAAAAAAAAAAAAAEsAAAA8AAAAAAAAAA==",
+              "DocumentIndex": 3,
+              "Title": "NewsArticleModel.cs",
+              "DocumentMoniker": "D:\\FPT\\PRN222\\Assignments\\AS01\\HoangHHHE182296_SE1888NET_AS01\\A01\\HoangHHHE182296_SE1888NET_A01\\Presentation\\Models\\NewsArticleModel.cs",
+              "RelativeDocumentMoniker": "Presentation\\Models\\NewsArticleModel.cs",
+              "ToolTip": "D:\\FPT\\PRN222\\Assignments\\AS01\\HoangHHHE182296_SE1888NET_AS01\\A01\\HoangHHHE182296_SE1888NET_A01\\Presentation\\Models\\NewsArticleModel.cs",
+              "RelativeToolTip": "Presentation\\Models\\NewsArticleModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAWAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-15T14:09:17.014Z",
+              "WhenOpened": "2025-10-18T13:10:29.299Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "SystemAccountValidator.cs",
-              "DocumentMoniker": "D:\\FPT\\PRN222\\Assigment\\A01\\HoangHHHE182296_SE1888NET_A01\\BusinessLogic\\Validation\\SystemAccountValidator.cs",
-              "RelativeDocumentMoniker": "BusinessLogic\\Validation\\SystemAccountValidator.cs",
-              "ToolTip": "D:\\FPT\\PRN222\\Assigment\\A01\\HoangHHHE182296_SE1888NET_A01\\BusinessLogic\\Validation\\SystemAccountValidator.cs",
-              "RelativeToolTip": "BusinessLogic\\Validation\\SystemAccountValidator.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACUAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-16T03:43:14.11Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "SystemAccountDTO.cs",
-              "DocumentMoniker": "D:\\FPT\\PRN222\\Assigment\\A01\\HoangHHHE182296_SE1888NET_A01\\BusinessLogic\\DTOs\\SystemAccountDTO.cs",
-              "RelativeDocumentMoniker": "BusinessLogic\\DTOs\\SystemAccountDTO.cs",
-              "ToolTip": "D:\\FPT\\PRN222\\Assigment\\A01\\HoangHHHE182296_SE1888NET_A01\\BusinessLogic\\DTOs\\SystemAccountDTO.cs",
-              "RelativeToolTip": "BusinessLogic\\DTOs\\SystemAccountDTO.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-17T01:50:12.855Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "SystemAccountRepository.cs",
-              "DocumentMoniker": "D:\\FPT\\PRN222\\Assigment\\A01\\HoangHHHE182296_SE1888NET_A01\\DataAccess\\Repositories\\SystemAccountRepository.cs",
-              "RelativeDocumentMoniker": "DataAccess\\Repositories\\SystemAccountRepository.cs",
-              "ToolTip": "D:\\FPT\\PRN222\\Assigment\\A01\\HoangHHHE182296_SE1888NET_A01\\DataAccess\\Repositories\\SystemAccountRepository.cs",
-              "RelativeToolTip": "DataAccess\\Repositories\\SystemAccountRepository.cs",
-              "ViewState": "AgIAAA8AAAAAAAAAAAAQwC8AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-15T14:14:29.271Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 16,
-              "Title": "ISystemAccountRepository.cs",
-              "DocumentMoniker": "D:\\FPT\\PRN222\\Assigment\\A01\\HoangHHHE182296_SE1888NET_A01\\DataAccess\\Repositories\\ISystemAccountRepository.cs",
-              "RelativeDocumentMoniker": "DataAccess\\Repositories\\ISystemAccountRepository.cs",
-              "ToolTip": "D:\\FPT\\PRN222\\Assigment\\A01\\HoangHHHE182296_SE1888NET_A01\\DataAccess\\Repositories\\ISystemAccountRepository.cs",
-              "RelativeToolTip": "DataAccess\\Repositories\\ISystemAccountRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-16T16:12:53.028Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 17,
-              "Title": "CategoryService.cs",
-              "DocumentMoniker": "D:\\FPT\\PRN222\\Assigment\\A01\\HoangHHHE182296_SE1888NET_A01\\BusinessLogic\\Services\\CategoryService.cs",
-              "RelativeDocumentMoniker": "BusinessLogic\\Services\\CategoryService.cs",
-              "ToolTip": "D:\\FPT\\PRN222\\Assigment\\A01\\HoangHHHE182296_SE1888NET_A01\\BusinessLogic\\Services\\CategoryService.cs",
-              "RelativeToolTip": "BusinessLogic\\Services\\CategoryService.cs",
-              "ViewState": "AgIAAC0AAAAAAAAAAAAAAFAAAAA/AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-14T19:10:41.318Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 18,
-              "Title": "CategoryValidator.cs",
-              "DocumentMoniker": "D:\\FPT\\PRN222\\Assigment\\A01\\HoangHHHE182296_SE1888NET_A01\\BusinessLogic\\Validation\\CategoryValidator.cs",
-              "RelativeDocumentMoniker": "BusinessLogic\\Validation\\CategoryValidator.cs",
-              "ToolTip": "D:\\FPT\\PRN222\\Assigment\\A01\\HoangHHHE182296_SE1888NET_A01\\BusinessLogic\\Validation\\CategoryValidator.cs",
-              "RelativeToolTip": "BusinessLogic\\Validation\\CategoryValidator.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-17T01:35:33.576Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 19,
-              "Title": "ICategoryRepository.cs",
-              "DocumentMoniker": "D:\\FPT\\PRN222\\Assigment\\A01\\HoangHHHE182296_SE1888NET_A01\\DataAccess\\Repositories\\ICategoryRepository.cs",
-              "RelativeDocumentMoniker": "DataAccess\\Repositories\\ICategoryRepository.cs",
-              "ToolTip": "D:\\FPT\\PRN222\\Assigment\\A01\\HoangHHHE182296_SE1888NET_A01\\DataAccess\\Repositories\\ICategoryRepository.cs",
-              "RelativeToolTip": "DataAccess\\Repositories\\ICategoryRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-14T19:05:12.9Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 22,
+              "DocumentIndex": 2,
               "Title": "ErrorViewModel.cs",
-              "DocumentMoniker": "D:\\FPT\\PRN222\\Assigment\\A01\\HoangHHHE182296_SE1888NET_A01\\Presentation\\Models\\ErrorViewModel.cs",
+              "DocumentMoniker": "D:\\FPT\\PRN222\\Assignments\\AS01\\HoangHHHE182296_SE1888NET_AS01\\A01\\HoangHHHE182296_SE1888NET_A01\\Presentation\\Models\\ErrorViewModel.cs",
               "RelativeDocumentMoniker": "Presentation\\Models\\ErrorViewModel.cs",
-              "ToolTip": "D:\\FPT\\PRN222\\Assigment\\A01\\HoangHHHE182296_SE1888NET_A01\\Presentation\\Models\\ErrorViewModel.cs",
+              "ToolTip": "D:\\FPT\\PRN222\\Assignments\\AS01\\HoangHHHE182296_SE1888NET_AS01\\A01\\HoangHHHE182296_SE1888NET_A01\\Presentation\\Models\\ErrorViewModel.cs",
               "RelativeToolTip": "Presentation\\Models\\ErrorViewModel.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -503,284 +327,128 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
-              "Title": "AccountModalConst.cs",
-              "DocumentMoniker": "D:\\FPT\\PRN222\\Assigment\\A01\\HoangHHHE182296_SE1888NET_A01\\Core\\Constants\\Account\\AccountModalConst.cs",
-              "RelativeDocumentMoniker": "Core\\Constants\\Account\\AccountModalConst.cs",
-              "ToolTip": "D:\\FPT\\PRN222\\Assigment\\A01\\HoangHHHE182296_SE1888NET_A01\\Core\\Constants\\Account\\AccountModalConst.cs",
-              "RelativeToolTip": "Core\\Constants\\Account\\AccountModalConst.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAYAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-16T16:40:00.638Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 21,
-              "Title": "AccountController.cs",
-              "DocumentMoniker": "D:\\FPT\\PRN222\\Assigment\\A01\\HoangHHHE182296_SE1888NET_A01\\Presentation\\Controllers\\AccountController.cs",
-              "RelativeDocumentMoniker": "Presentation\\Controllers\\AccountController.cs",
-              "ToolTip": "D:\\FPT\\PRN222\\Assigment\\A01\\HoangHHHE182296_SE1888NET_A01\\Presentation\\Controllers\\AccountController.cs",
-              "RelativeToolTip": "Presentation\\Controllers\\AccountController.cs",
-              "ViewState": "AgIAAFUAAAAAAAAAAAAawG0AAAAzAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-16T16:00:01.716Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 23,
+              "DocumentIndex": 1,
               "Title": "AccountModel.cs",
-              "DocumentMoniker": "D:\\FPT\\PRN222\\Assigment\\A01\\HoangHHHE182296_SE1888NET_A01\\Presentation\\Models\\AccountModel.cs",
+              "DocumentMoniker": "D:\\FPT\\PRN222\\Assignments\\AS01\\HoangHHHE182296_SE1888NET_AS01\\A01\\HoangHHHE182296_SE1888NET_A01\\Presentation\\Models\\AccountModel.cs",
               "RelativeDocumentMoniker": "Presentation\\Models\\AccountModel.cs",
-              "ToolTip": "D:\\FPT\\PRN222\\Assigment\\A01\\HoangHHHE182296_SE1888NET_A01\\Presentation\\Models\\AccountModel.cs",
+              "ToolTip": "D:\\FPT\\PRN222\\Assignments\\AS01\\HoangHHHE182296_SE1888NET_AS01\\A01\\HoangHHHE182296_SE1888NET_A01\\Presentation\\Models\\AccountModel.cs",
               "RelativeToolTip": "Presentation\\Models\\AccountModel.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAARAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-10-16T12:20:56.47Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 24,
+              "DocumentIndex": 0,
+              "Title": "account.js",
+              "DocumentMoniker": "D:\\FPT\\PRN222\\Assignments\\AS01\\HoangHHHE182296_SE1888NET_AS01\\A01\\HoangHHHE182296_SE1888NET_A01\\Presentation\\wwwroot\\js\\account.js",
+              "RelativeDocumentMoniker": "Presentation\\wwwroot\\js\\account.js",
+              "ToolTip": "D:\\FPT\\PRN222\\Assignments\\AS01\\HoangHHHE182296_SE1888NET_AS01\\A01\\HoangHHHE182296_SE1888NET_A01\\Presentation\\wwwroot\\js\\account.js",
+              "RelativeToolTip": "Presentation\\wwwroot\\js\\account.js",
+              "ViewState": "AgIAAM8AAAAAAAAAAAAwwOEAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2025-10-16T14:32:30.737Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "SystemAccountRepository.cs",
+              "DocumentMoniker": "D:\\FPT\\PRN222\\Assignments\\AS01\\HoangHHHE182296_SE1888NET_AS01\\A01\\HoangHHHE182296_SE1888NET_A01\\DataAccess\\Repositories\\SystemAccountRepository.cs",
+              "RelativeDocumentMoniker": "DataAccess\\Repositories\\SystemAccountRepository.cs",
+              "ToolTip": "D:\\FPT\\PRN222\\Assignments\\AS01\\HoangHHHE182296_SE1888NET_AS01\\A01\\HoangHHHE182296_SE1888NET_A01\\DataAccess\\Repositories\\SystemAccountRepository.cs",
+              "RelativeToolTip": "DataAccess\\Repositories\\SystemAccountRepository.cs",
+              "ViewState": "AgIAACoAAAAAAAAAAAAYwEMAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-15T14:14:29.271Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "CategoryService.cs",
+              "DocumentMoniker": "D:\\FPT\\PRN222\\Assignments\\AS01\\HoangHHHE182296_SE1888NET_AS01\\A01\\HoangHHHE182296_SE1888NET_A01\\BusinessLogic\\Services\\CategoryService.cs",
+              "RelativeDocumentMoniker": "BusinessLogic\\Services\\CategoryService.cs",
+              "ToolTip": "D:\\FPT\\PRN222\\Assignments\\AS01\\HoangHHHE182296_SE1888NET_AS01\\A01\\HoangHHHE182296_SE1888NET_A01\\BusinessLogic\\Services\\CategoryService.cs",
+              "RelativeToolTip": "BusinessLogic\\Services\\CategoryService.cs",
+              "ViewState": "AgIAAEEAAAAAAAAAAAAYwFcAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-14T19:10:41.318Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "SystemAccountRules.cs",
+              "DocumentMoniker": "D:\\FPT\\PRN222\\Assignments\\AS01\\HoangHHHE182296_SE1888NET_AS01\\A01\\HoangHHHE182296_SE1888NET_A01\\BusinessLogic\\Rules\\SystemAccountRules.cs",
+              "RelativeDocumentMoniker": "BusinessLogic\\Rules\\SystemAccountRules.cs",
+              "ToolTip": "D:\\FPT\\PRN222\\Assignments\\AS01\\HoangHHHE182296_SE1888NET_AS01\\A01\\HoangHHHE182296_SE1888NET_A01\\BusinessLogic\\Rules\\SystemAccountRules.cs",
+              "RelativeToolTip": "BusinessLogic\\Rules\\SystemAccountRules.cs",
+              "ViewState": "AgIAACYAAAAAAAAAAAAgwDEAAABzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-18T14:54:02.314Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "SystemAccountService.cs",
+              "DocumentMoniker": "D:\\FPT\\PRN222\\Assignments\\AS01\\HoangHHHE182296_SE1888NET_AS01\\A01\\HoangHHHE182296_SE1888NET_A01\\BusinessLogic\\Services\\SystemAccountService.cs",
+              "RelativeDocumentMoniker": "BusinessLogic\\Services\\SystemAccountService.cs",
+              "ToolTip": "D:\\FPT\\PRN222\\Assignments\\AS01\\HoangHHHE182296_SE1888NET_AS01\\A01\\HoangHHHE182296_SE1888NET_A01\\BusinessLogic\\Services\\SystemAccountService.cs",
+              "RelativeToolTip": "BusinessLogic\\Services\\SystemAccountService.cs",
+              "ViewState": "AgIAAEcAAAAAAAAAAAAgwF0AAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-15T14:09:17.014Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
               "Title": "HomeController.cs",
-              "DocumentMoniker": "D:\\FPT\\PRN222\\Assigment\\A01\\HoangHHHE182296_SE1888NET_A01\\Presentation\\Controllers\\HomeController.cs",
+              "DocumentMoniker": "D:\\FPT\\PRN222\\Assignments\\AS01\\HoangHHHE182296_SE1888NET_AS01\\A01\\HoangHHHE182296_SE1888NET_A01\\Presentation\\Controllers\\HomeController.cs",
               "RelativeDocumentMoniker": "Presentation\\Controllers\\HomeController.cs",
-              "ToolTip": "D:\\FPT\\PRN222\\Assigment\\A01\\HoangHHHE182296_SE1888NET_A01\\Presentation\\Controllers\\HomeController.cs",
+              "ToolTip": "D:\\FPT\\PRN222\\Assignments\\AS01\\HoangHHHE182296_SE1888NET_AS01\\A01\\HoangHHHE182296_SE1888NET_A01\\Presentation\\Controllers\\HomeController.cs",
               "RelativeToolTip": "Presentation\\Controllers\\HomeController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAiAAAAAAAAAA==",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAB4AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-10-15T09:50:19.752Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 25,
-              "Title": "CategoyController.cs",
-              "DocumentMoniker": "D:\\FPT\\PRN222\\Assigment\\A01\\HoangHHHE182296_SE1888NET_A01\\Presentation\\Controllers\\CategoyController.cs",
-              "RelativeDocumentMoniker": "Presentation\\Controllers\\CategoyController.cs",
-              "ToolTip": "D:\\FPT\\PRN222\\Assigment\\A01\\HoangHHHE182296_SE1888NET_A01\\Presentation\\Controllers\\CategoyController.cs",
-              "RelativeToolTip": "Presentation\\Controllers\\CategoyController.cs",
-              "ViewState": "AgIAABUAAAAAAAAAAAAAAB8AAAAhAAAAAAAAAA==",
+              "DocumentIndex": 11,
+              "Title": "AccountParams.cs",
+              "DocumentMoniker": "D:\\FPT\\PRN222\\Assignments\\AS01\\HoangHHHE182296_SE1888NET_AS01\\A01\\HoangHHHE182296_SE1888NET_A01\\Presentation\\View-Model\\Params\\AccountParams.cs",
+              "RelativeDocumentMoniker": "Presentation\\View-Model\\Params\\AccountParams.cs",
+              "ToolTip": "D:\\FPT\\PRN222\\Assignments\\AS01\\HoangHHHE182296_SE1888NET_AS01\\A01\\HoangHHHE182296_SE1888NET_A01\\Presentation\\View-Model\\Params\\AccountParams.cs",
+              "RelativeToolTip": "Presentation\\View-Model\\Params\\AccountParams.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAgwBoAAABJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-14T18:53:11.453Z",
+              "WhenOpened": "2025-10-18T11:17:38.803Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 26,
-              "Title": "_Notification.cshtml",
-              "DocumentMoniker": "D:\\FPT\\PRN222\\Assigment\\A01\\HoangHHHE182296_SE1888NET_A01\\Presentation\\Views\\Shared\\_Notification.cshtml",
-              "RelativeDocumentMoniker": "Presentation\\Views\\Shared\\_Notification.cshtml",
-              "ToolTip": "D:\\FPT\\PRN222\\Assigment\\A01\\HoangHHHE182296_SE1888NET_A01\\Presentation\\Views\\Shared\\_Notification.cshtml",
-              "RelativeToolTip": "Presentation\\Views\\Shared\\_Notification.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAABbAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-10-16T16:17:02.544Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 27,
-              "Title": "CategoryViewModel.cs",
-              "DocumentMoniker": "D:\\FPT\\PRN222\\Assigment\\A01\\HoangHHHE182296_SE1888NET_A01\\Presentation\\View-Model\\CategoryViewModel.cs",
-              "RelativeDocumentMoniker": "Presentation\\View-Model\\CategoryViewModel.cs",
-              "ToolTip": "D:\\FPT\\PRN222\\Assigment\\A01\\HoangHHHE182296_SE1888NET_A01\\Presentation\\View-Model\\CategoryViewModel.cs",
-              "RelativeToolTip": "Presentation\\View-Model\\CategoryViewModel.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 12,
+              "Title": "AccountViewModel.cs",
+              "DocumentMoniker": "D:\\FPT\\PRN222\\Assignments\\AS01\\HoangHHHE182296_SE1888NET_AS01\\A01\\HoangHHHE182296_SE1888NET_A01\\Presentation\\View-Model\\Data\\AccountViewModel.cs",
+              "RelativeDocumentMoniker": "Presentation\\View-Model\\Data\\AccountViewModel.cs",
+              "ToolTip": "D:\\FPT\\PRN222\\Assignments\\AS01\\HoangHHHE182296_SE1888NET_AS01\\A01\\HoangHHHE182296_SE1888NET_A01\\Presentation\\View-Model\\Data\\AccountViewModel.cs",
+              "RelativeToolTip": "Presentation\\View-Model\\Data\\AccountViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-16T06:11:59.378Z",
+              "WhenOpened": "2025-10-18T11:22:29.152Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 28,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "D:\\FPT\\PRN222\\Assigment\\A01\\HoangHHHE182296_SE1888NET_A01\\Presentation\\Views\\Home\\Index.cshtml",
-              "RelativeDocumentMoniker": "Presentation\\Views\\Home\\Index.cshtml",
-              "ToolTip": "D:\\FPT\\PRN222\\Assigment\\A01\\HoangHHHE182296_SE1888NET_A01\\Presentation\\Views\\Home\\Index.cshtml",
-              "RelativeToolTip": "Presentation\\Views\\Home\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAA8AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-10-15T09:58:29.26Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 29,
-              "Title": "CategoryRepository.cs",
-              "DocumentMoniker": "D:\\FPT\\PRN222\\Assigment\\A01\\HoangHHHE182296_SE1888NET_A01\\DataAccess\\Repositories\\CategoryRepository.cs",
-              "RelativeDocumentMoniker": "DataAccess\\Repositories\\CategoryRepository.cs",
-              "ToolTip": "D:\\FPT\\PRN222\\Assigment\\A01\\HoangHHHE182296_SE1888NET_A01\\DataAccess\\Repositories\\CategoryRepository.cs",
-              "RelativeToolTip": "DataAccess\\Repositories\\CategoryRepository.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAAB8AAAAwAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-14T18:55:42.723Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 30,
-              "Title": "_ValidationScriptsPartial.cshtml",
-              "DocumentMoniker": "D:\\FPT\\PRN222\\Assigment\\A01\\HoangHHHE182296_SE1888NET_A01\\Presentation\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
-              "RelativeDocumentMoniker": "Presentation\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
-              "ToolTip": "D:\\FPT\\PRN222\\Assigment\\A01\\HoangHHHE182296_SE1888NET_A01\\Presentation\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
-              "RelativeToolTip": "Presentation\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-10-15T17:17:27.773Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 31,
-              "Title": "_ViewImports.cshtml",
-              "DocumentMoniker": "D:\\FPT\\PRN222\\Assigment\\A01\\HoangHHHE182296_SE1888NET_A01\\Presentation\\Views\\_ViewImports.cshtml",
-              "RelativeDocumentMoniker": "Presentation\\Views\\_ViewImports.cshtml",
-              "ToolTip": "D:\\FPT\\PRN222\\Assigment\\A01\\HoangHHHE182296_SE1888NET_A01\\Presentation\\Views\\_ViewImports.cshtml",
-              "RelativeToolTip": "Presentation\\Views\\_ViewImports.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-10-15T09:39:04.566Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 32,
-              "Title": "_ViewStart.cshtml",
-              "DocumentMoniker": "D:\\FPT\\PRN222\\Assigment\\A01\\HoangHHHE182296_SE1888NET_A01\\Presentation\\Views\\_ViewStart.cshtml",
-              "RelativeDocumentMoniker": "Presentation\\Views\\_ViewStart.cshtml",
-              "ToolTip": "D:\\FPT\\PRN222\\Assigment\\A01\\HoangHHHE182296_SE1888NET_A01\\Presentation\\Views\\_ViewStart.cshtml",
-              "RelativeToolTip": "Presentation\\Views\\_ViewStart.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-10-15T09:39:05.772Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 33,
-              "Title": "20251014190526_Initial.cs",
-              "DocumentMoniker": "D:\\FPT\\PRN222\\Assigment\\A01\\HoangHHHE182296_SE1888NET_A01\\DataAccess\\Migrations\\20251014190526_Initial.cs",
-              "RelativeDocumentMoniker": "DataAccess\\Migrations\\20251014190526_Initial.cs",
-              "ToolTip": "D:\\FPT\\PRN222\\Assigment\\A01\\HoangHHHE182296_SE1888NET_A01\\DataAccess\\Migrations\\20251014190526_Initial.cs",
-              "RelativeToolTip": "DataAccess\\Migrations\\20251014190526_Initial.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACYAAABXAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-14T19:05:27.257Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 34,
-              "Title": "Error.cshtml",
-              "DocumentMoniker": "D:\\FPT\\PRN222\\Assigment\\A01\\HoangHHHE182296_SE1888NET_A01\\Presentation\\Views\\Shared\\Error.cshtml",
-              "RelativeDocumentMoniker": "Presentation\\Views\\Shared\\Error.cshtml",
-              "ToolTip": "D:\\FPT\\PRN222\\Assigment\\A01\\HoangHHHE182296_SE1888NET_A01\\Presentation\\Views\\Shared\\Error.cshtml",
-              "RelativeToolTip": "Presentation\\Views\\Shared\\Error.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-10-15T13:33:13.907Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 35,
-              "Title": "Program.cs",
-              "DocumentMoniker": "D:\\FPT\\PRN222\\Assigment\\A01\\HoangHHHE182296_SE1888NET_A01\\Presentation\\Program.cs",
-              "RelativeDocumentMoniker": "Presentation\\Program.cs",
-              "ToolTip": "D:\\FPT\\PRN222\\Assigment\\A01\\HoangHHHE182296_SE1888NET_A01\\Presentation\\Program.cs",
-              "RelativeToolTip": "Presentation\\Program.cs",
-              "ViewState": "AgIAAB4AAAAAAAAAAAAAACAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-15T09:58:40.045Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 36,
-              "Title": "Privacy.cshtml",
-              "DocumentMoniker": "D:\\FPT\\PRN222\\Assigment\\A01\\HoangHHHE182296_SE1888NET_A01\\Presentation\\Views\\Home\\Privacy.cshtml",
-              "RelativeDocumentMoniker": "Presentation\\Views\\Home\\Privacy.cshtml",
-              "ToolTip": "D:\\FPT\\PRN222\\Assigment\\A01\\HoangHHHE182296_SE1888NET_A01\\Presentation\\Views\\Home\\Privacy.cshtml",
-              "RelativeToolTip": "Presentation\\Views\\Home\\Privacy.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-10-15T09:58:30.182Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 37,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "D:\\FPT\\PRN222\\Assigment\\A01\\HoangHHHE182296_SE1888NET_A01\\Presentation\\appsettings.json",
-              "RelativeDocumentMoniker": "Presentation\\appsettings.json",
-              "ToolTip": "D:\\FPT\\PRN222\\Assigment\\A01\\HoangHHHE182296_SE1888NET_A01\\Presentation\\appsettings.json",
-              "RelativeToolTip": "Presentation\\appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-10-15T13:23:00.539Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 38,
-              "Title": "Create.cshtml",
-              "DocumentMoniker": "D:\\FPT\\PRN222\\Assigment\\A01\\HoangHHHE182296_SE1888NET_A01\\Presentation\\Views\\Category\\Create.cshtml",
-              "RelativeDocumentMoniker": "Presentation\\Views\\Category\\Create.cshtml",
-              "ToolTip": "D:\\FPT\\PRN222\\Assigment\\A01\\HoangHHHE182296_SE1888NET_A01\\Presentation\\Views\\Category\\Create.cshtml",
-              "RelativeToolTip": "Presentation\\Views\\Category\\Create.cshtml",
-              "ViewState": "AgIAABIAAAAAAAAAAAAAACYAAAASAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-10-14T19:16:26.07Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 39,
-              "Title": "_NavAdmin.cshtml",
-              "DocumentMoniker": "D:\\FPT\\PRN222\\Assigment\\A01\\HoangHHHE182296_SE1888NET_A01\\Presentation\\Views\\Shared\\Navbar\\_NavAdmin.cshtml",
-              "RelativeDocumentMoniker": "Presentation\\Views\\Shared\\Navbar\\_NavAdmin.cshtml",
-              "ToolTip": "D:\\FPT\\PRN222\\Assigment\\A01\\HoangHHHE182296_SE1888NET_A01\\Presentation\\Views\\Shared\\Navbar\\_NavAdmin.cshtml",
-              "RelativeToolTip": "Presentation\\Views\\Shared\\Navbar\\_NavAdmin.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAABSAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-10-16T03:12:37.709Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 40,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "D:\\FPT\\PRN222\\Assigment\\A01\\HoangHHHE182296_SE1888NET_A01\\Presentation\\Views\\Category\\Index.cshtml",
-              "RelativeDocumentMoniker": "Presentation\\Views\\Category\\Index.cshtml",
-              "ToolTip": "D:\\FPT\\PRN222\\Assigment\\A01\\HoangHHHE182296_SE1888NET_A01\\Presentation\\Views\\Category\\Index.cshtml",
-              "RelativeToolTip": "Presentation\\Views\\Category\\Index.cshtml",
-              "ViewState": "AgIAACQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-10-15T09:52:21.417Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 41,
-              "Title": "Category.cs",
-              "DocumentMoniker": "D:\\FPT\\PRN222\\Assigment\\A01\\HoangHHHE182296_SE1888NET_A01\\DataAccess\\Entities\\Category.cs",
-              "RelativeDocumentMoniker": "DataAccess\\Entities\\Category.cs",
-              "ToolTip": "D:\\FPT\\PRN222\\Assigment\\A01\\HoangHHHE182296_SE1888NET_A01\\DataAccess\\Entities\\Category.cs",
-              "RelativeToolTip": "DataAccess\\Entities\\Category.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAArAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-14T18:52:10.984Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 42,
+              "DocumentIndex": 13,
               "Title": "site.js",
-              "DocumentMoniker": "D:\\FPT\\PRN222\\Assigment\\A01\\HoangHHHE182296_SE1888NET_A01\\Presentation\\wwwroot\\js\\site.js",
+              "DocumentMoniker": "D:\\FPT\\PRN222\\Assignments\\AS01\\HoangHHHE182296_SE1888NET_AS01\\A01\\HoangHHHE182296_SE1888NET_A01\\Presentation\\wwwroot\\js\\site.js",
               "RelativeDocumentMoniker": "Presentation\\wwwroot\\js\\site.js",
-              "ToolTip": "D:\\FPT\\PRN222\\Assigment\\A01\\HoangHHHE182296_SE1888NET_A01\\Presentation\\wwwroot\\js\\site.js",
+              "ToolTip": "D:\\FPT\\PRN222\\Assignments\\AS01\\HoangHHHE182296_SE1888NET_AS01\\A01\\HoangHHHE182296_SE1888NET_A01\\Presentation\\wwwroot\\js\\site.js",
               "RelativeToolTip": "Presentation\\wwwroot\\js\\site.js",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
@@ -789,23 +457,425 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 43,
-              "Title": "ApplicationDbContextModelSnapshot.cs",
-              "DocumentMoniker": "D:\\FPT\\PRN222\\Assigment\\A01\\HoangHHHE182296_SE1888NET_A01\\DataAccess\\Migrations\\ApplicationDbContextModelSnapshot.cs",
-              "RelativeDocumentMoniker": "DataAccess\\Migrations\\ApplicationDbContextModelSnapshot.cs",
-              "ToolTip": "D:\\FPT\\PRN222\\Assigment\\A01\\HoangHHHE182296_SE1888NET_A01\\DataAccess\\Migrations\\ApplicationDbContextModelSnapshot.cs",
-              "RelativeToolTip": "DataAccess\\Migrations\\ApplicationDbContextModelSnapshot.cs",
-              "ViewState": "AgIAADAAAAAAAAAAAAAAACEAAAA9AAAAAAAAAA==",
+              "DocumentIndex": 14,
+              "Title": "CategoryController.cs",
+              "DocumentMoniker": "D:\\FPT\\PRN222\\Assignments\\AS01\\HoangHHHE182296_SE1888NET_AS01\\A01\\HoangHHHE182296_SE1888NET_A01\\Presentation\\Controllers\\CategoryController.cs",
+              "RelativeDocumentMoniker": "Presentation\\Controllers\\CategoryController.cs",
+              "ToolTip": "D:\\FPT\\PRN222\\Assignments\\AS01\\HoangHHHE182296_SE1888NET_AS01\\A01\\HoangHHHE182296_SE1888NET_A01\\Presentation\\Controllers\\CategoryController.cs",
+              "RelativeToolTip": "Presentation\\Controllers\\CategoryController.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAYwC8AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-16T16:15:41.686Z"
+              "WhenOpened": "2025-10-14T18:53:11.453Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "AccountEnum.cs",
+              "DocumentMoniker": "D:\\FPT\\PRN222\\Assignments\\AS01\\HoangHHHE182296_SE1888NET_AS01\\A01\\HoangHHHE182296_SE1888NET_A01\\Core\\Enums\\AccountEnum.cs",
+              "RelativeDocumentMoniker": "Core\\Enums\\AccountEnum.cs",
+              "ToolTip": "D:\\FPT\\PRN222\\Assignments\\AS01\\HoangHHHE182296_SE1888NET_AS01\\A01\\HoangHHHE182296_SE1888NET_A01\\Core\\Enums\\AccountEnum.cs",
+              "RelativeToolTip": "Core\\Enums\\AccountEnum.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-16T01:42:31.258Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "AccountModalConst.cs",
+              "DocumentMoniker": "D:\\FPT\\PRN222\\Assignments\\AS01\\HoangHHHE182296_SE1888NET_AS01\\A01\\HoangHHHE182296_SE1888NET_A01\\Core\\Constants\\Account\\AccountModalConst.cs",
+              "RelativeDocumentMoniker": "Core\\Constants\\Account\\AccountModalConst.cs",
+              "ToolTip": "D:\\FPT\\PRN222\\Assignments\\AS01\\HoangHHHE182296_SE1888NET_AS01\\A01\\HoangHHHE182296_SE1888NET_A01\\Core\\Constants\\Account\\AccountModalConst.cs",
+              "RelativeToolTip": "Core\\Constants\\Account\\AccountModalConst.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-16T16:40:00.638Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "SystemAccountRequests.cs",
+              "DocumentMoniker": "D:\\FPT\\PRN222\\Assignments\\AS01\\HoangHHHE182296_SE1888NET_AS01\\A01\\HoangHHHE182296_SE1888NET_A01\\BusinessLogic\\DTOs\\Requests\\SystemAccountRequests.cs",
+              "RelativeDocumentMoniker": "BusinessLogic\\DTOs\\Requests\\SystemAccountRequests.cs",
+              "ToolTip": "D:\\FPT\\PRN222\\Assignments\\AS01\\HoangHHHE182296_SE1888NET_AS01\\A01\\HoangHHHE182296_SE1888NET_A01\\BusinessLogic\\DTOs\\Requests\\SystemAccountRequests.cs",
+              "RelativeToolTip": "BusinessLogic\\DTOs\\Requests\\SystemAccountRequests.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAgwCMAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-18T09:00:11.114Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "CategoryRepository.cs",
+              "DocumentMoniker": "D:\\FPT\\PRN222\\Assignments\\AS01\\HoangHHHE182296_SE1888NET_AS01\\A01\\HoangHHHE182296_SE1888NET_A01\\DataAccess\\Repositories\\CategoryRepository.cs",
+              "RelativeDocumentMoniker": "DataAccess\\Repositories\\CategoryRepository.cs",
+              "ToolTip": "D:\\FPT\\PRN222\\Assignments\\AS01\\HoangHHHE182296_SE1888NET_AS01\\A01\\HoangHHHE182296_SE1888NET_A01\\DataAccess\\Repositories\\CategoryRepository.cs",
+              "RelativeToolTip": "DataAccess\\Repositories\\CategoryRepository.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAB8AAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-14T18:55:42.723Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "CreateUpdateModal.cshtml",
+              "DocumentMoniker": "D:\\FPT\\PRN222\\Assignments\\AS01\\HoangHHHE182296_SE1888NET_AS01\\A01\\HoangHHHE182296_SE1888NET_A01\\Presentation\\Views\\Account\\Modal\\CreateUpdateModal.cshtml",
+              "RelativeDocumentMoniker": "Presentation\\Views\\Account\\Modal\\CreateUpdateModal.cshtml",
+              "ToolTip": "D:\\FPT\\PRN222\\Assignments\\AS01\\HoangHHHE182296_SE1888NET_AS01\\A01\\HoangHHHE182296_SE1888NET_A01\\Presentation\\Views\\Account\\Modal\\CreateUpdateModal.cshtml",
+              "RelativeToolTip": "Presentation\\Views\\Account\\Modal\\CreateUpdateModal.cshtml",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAswCMAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-17T02:27:41.059Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "ChangePassword.cshtml",
+              "DocumentMoniker": "D:\\FPT\\PRN222\\Assignments\\AS01\\HoangHHHE182296_SE1888NET_AS01\\A01\\HoangHHHE182296_SE1888NET_A01\\Presentation\\Views\\Account\\Modal\\ChangePassword.cshtml",
+              "RelativeDocumentMoniker": "Presentation\\Views\\Account\\Modal\\ChangePassword.cshtml",
+              "ToolTip": "D:\\FPT\\PRN222\\Assignments\\AS01\\HoangHHHE182296_SE1888NET_AS01\\A01\\HoangHHHE182296_SE1888NET_A01\\Presentation\\Views\\Account\\Modal\\ChangePassword.cshtml",
+              "RelativeToolTip": "Presentation\\Views\\Account\\Modal\\ChangePassword.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-17T02:29:00.109Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "NewsArticle.cs",
+              "DocumentMoniker": "D:\\FPT\\PRN222\\Assignments\\AS01\\HoangHHHE182296_SE1888NET_AS01\\A01\\HoangHHHE182296_SE1888NET_A01\\DataAccess\\Entities\\NewsArticle.cs",
+              "RelativeDocumentMoniker": "DataAccess\\Entities\\NewsArticle.cs",
+              "ToolTip": "D:\\FPT\\PRN222\\Assignments\\AS01\\HoangHHHE182296_SE1888NET_AS01\\A01\\HoangHHHE182296_SE1888NET_A01\\DataAccess\\Entities\\NewsArticle.cs",
+              "RelativeToolTip": "DataAccess\\Entities\\NewsArticle.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-14T18:51:51.258Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "INewsArticleRepository.cs",
+              "DocumentMoniker": "D:\\FPT\\PRN222\\Assignments\\AS01\\HoangHHHE182296_SE1888NET_AS01\\A01\\HoangHHHE182296_SE1888NET_A01\\DataAccess\\Repositories\\INewsArticleRepository.cs",
+              "RelativeDocumentMoniker": "DataAccess\\Repositories\\INewsArticleRepository.cs",
+              "ToolTip": "D:\\FPT\\PRN222\\Assignments\\AS01\\HoangHHHE182296_SE1888NET_AS01\\A01\\HoangHHHE182296_SE1888NET_A01\\DataAccess\\Repositories\\INewsArticleRepository.cs",
+              "RelativeToolTip": "DataAccess\\Repositories\\INewsArticleRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-18T13:29:52.022Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "NewsArticleRepository.cs",
+              "DocumentMoniker": "D:\\FPT\\PRN222\\Assignments\\AS01\\HoangHHHE182296_SE1888NET_AS01\\A01\\HoangHHHE182296_SE1888NET_A01\\DataAccess\\Repositories\\NewsArticleRepository.cs",
+              "RelativeDocumentMoniker": "DataAccess\\Repositories\\NewsArticleRepository.cs",
+              "ToolTip": "D:\\FPT\\PRN222\\Assignments\\AS01\\HoangHHHE182296_SE1888NET_AS01\\A01\\HoangHHHE182296_SE1888NET_A01\\DataAccess\\Repositories\\NewsArticleRepository.cs",
+              "RelativeToolTip": "DataAccess\\Repositories\\NewsArticleRepository.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAB4AAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-18T13:29:17.503Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "D:\\FPT\\PRN222\\Assignments\\AS01\\HoangHHHE182296_SE1888NET_AS01\\A01\\HoangHHHE182296_SE1888NET_A01\\DataAccess\\Context\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "DataAccess\\Context\\ApplicationDbContext.cs",
+              "ToolTip": "D:\\FPT\\PRN222\\Assignments\\AS01\\HoangHHHE182296_SE1888NET_AS01\\A01\\HoangHHHE182296_SE1888NET_A01\\DataAccess\\Context\\ApplicationDbContext.cs",
+              "RelativeToolTip": "DataAccess\\Context\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAYwEYAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-14T18:54:27.369Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\FPT\\PRN222\\Assignments\\AS01\\HoangHHHE182296_SE1888NET_AS01\\A01\\HoangHHHE182296_SE1888NET_A01\\Presentation\\Program.cs",
+              "RelativeDocumentMoniker": "Presentation\\Program.cs",
+              "ToolTip": "D:\\FPT\\PRN222\\Assignments\\AS01\\HoangHHHE182296_SE1888NET_AS01\\A01\\HoangHHHE182296_SE1888NET_A01\\Presentation\\Program.cs",
+              "RelativeToolTip": "Presentation\\Program.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAYwBkAAABYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-15T09:58:40.045Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "SystemAccountResponse.cs",
+              "DocumentMoniker": "D:\\FPT\\PRN222\\Assignments\\AS01\\HoangHHHE182296_SE1888NET_AS01\\A01\\HoangHHHE182296_SE1888NET_A01\\BusinessLogic\\DTOs\\Response\\SystemAccountResponse.cs",
+              "RelativeDocumentMoniker": "BusinessLogic\\DTOs\\Response\\SystemAccountResponse.cs",
+              "ToolTip": "D:\\FPT\\PRN222\\Assignments\\AS01\\HoangHHHE182296_SE1888NET_AS01\\A01\\HoangHHHE182296_SE1888NET_A01\\BusinessLogic\\DTOs\\Response\\SystemAccountResponse.cs",
+              "RelativeToolTip": "BusinessLogic\\DTOs\\Response\\SystemAccountResponse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-18T11:24:00.375Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "NewsArticleResponse.cs",
+              "DocumentMoniker": "D:\\FPT\\PRN222\\Assignments\\AS01\\HoangHHHE182296_SE1888NET_AS01\\A01\\HoangHHHE182296_SE1888NET_A01\\BusinessLogic\\DTOs\\Response\\NewsArticleResponse.cs",
+              "RelativeDocumentMoniker": "BusinessLogic\\DTOs\\Response\\NewsArticleResponse.cs",
+              "ToolTip": "D:\\FPT\\PRN222\\Assignments\\AS01\\HoangHHHE182296_SE1888NET_AS01\\A01\\HoangHHHE182296_SE1888NET_A01\\BusinessLogic\\DTOs\\Response\\NewsArticleResponse.cs",
+              "RelativeToolTip": "BusinessLogic\\DTOs\\Response\\NewsArticleResponse.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAACMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-18T14:34:32.746Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "CategoryDTO.cs",
+              "DocumentMoniker": "D:\\FPT\\PRN222\\Assignments\\AS01\\HoangHHHE182296_SE1888NET_AS01\\A01\\HoangHHHE182296_SE1888NET_A01\\BusinessLogic\\DTOs\\CategoryDTO.cs",
+              "RelativeDocumentMoniker": "BusinessLogic\\DTOs\\CategoryDTO.cs",
+              "ToolTip": "D:\\FPT\\PRN222\\Assignments\\AS01\\HoangHHHE182296_SE1888NET_AS01\\A01\\HoangHHHE182296_SE1888NET_A01\\BusinessLogic\\DTOs\\CategoryDTO.cs",
+              "RelativeToolTip": "BusinessLogic\\DTOs\\CategoryDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-15T09:17:45.866Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "SystemAccountValidator.cs",
+              "DocumentMoniker": "D:\\FPT\\PRN222\\Assignments\\AS01\\HoangHHHE182296_SE1888NET_AS01\\A01\\HoangHHHE182296_SE1888NET_A01\\BusinessLogic\\Validation\\SystemAccountValidator.cs",
+              "RelativeDocumentMoniker": "BusinessLogic\\Validation\\SystemAccountValidator.cs",
+              "ToolTip": "D:\\FPT\\PRN222\\Assignments\\AS01\\HoangHHHE182296_SE1888NET_AS01\\A01\\HoangHHHE182296_SE1888NET_A01\\BusinessLogic\\Validation\\SystemAccountValidator.cs",
+              "RelativeToolTip": "BusinessLogic\\Validation\\SystemAccountValidator.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAYwCcAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-16T03:43:14.11Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "DeleteModal.cshtml",
+              "DocumentMoniker": "D:\\FPT\\PRN222\\Assignments\\AS01\\HoangHHHE182296_SE1888NET_AS01\\A01\\HoangHHHE182296_SE1888NET_A01\\Presentation\\Views\\Account\\Modal\\DeleteModal.cshtml",
+              "RelativeDocumentMoniker": "Presentation\\Views\\Account\\Modal\\DeleteModal.cshtml",
+              "ToolTip": "D:\\FPT\\PRN222\\Assignments\\AS01\\HoangHHHE182296_SE1888NET_AS01\\A01\\HoangHHHE182296_SE1888NET_A01\\Presentation\\Views\\Account\\Modal\\DeleteModal.cshtml",
+              "RelativeToolTip": "Presentation\\Views\\Account\\Modal\\DeleteModal.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAABjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-16T14:13:47.3Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "CategoryValidator.cs",
+              "DocumentMoniker": "D:\\FPT\\PRN222\\Assignments\\AS01\\HoangHHHE182296_SE1888NET_AS01\\A01\\HoangHHHE182296_SE1888NET_A01\\BusinessLogic\\Validation\\CategoryValidator.cs",
+              "RelativeDocumentMoniker": "BusinessLogic\\Validation\\CategoryValidator.cs",
+              "ToolTip": "D:\\FPT\\PRN222\\Assignments\\AS01\\HoangHHHE182296_SE1888NET_AS01\\A01\\HoangHHHE182296_SE1888NET_A01\\BusinessLogic\\Validation\\CategoryValidator.cs",
+              "RelativeToolTip": "BusinessLogic\\Validation\\CategoryValidator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-17T01:35:33.576Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "ISystemAccountRepository.cs",
+              "DocumentMoniker": "D:\\FPT\\PRN222\\Assignments\\AS01\\HoangHHHE182296_SE1888NET_AS01\\A01\\HoangHHHE182296_SE1888NET_A01\\DataAccess\\Repositories\\ISystemAccountRepository.cs",
+              "RelativeDocumentMoniker": "DataAccess\\Repositories\\ISystemAccountRepository.cs",
+              "ToolTip": "D:\\FPT\\PRN222\\Assignments\\AS01\\HoangHHHE182296_SE1888NET_AS01\\A01\\HoangHHHE182296_SE1888NET_A01\\DataAccess\\Repositories\\ISystemAccountRepository.cs",
+              "RelativeToolTip": "DataAccess\\Repositories\\ISystemAccountRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-16T16:12:53.028Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "ICategoryRepository.cs",
+              "DocumentMoniker": "D:\\FPT\\PRN222\\Assignments\\AS01\\HoangHHHE182296_SE1888NET_AS01\\A01\\HoangHHHE182296_SE1888NET_A01\\DataAccess\\Repositories\\ICategoryRepository.cs",
+              "RelativeDocumentMoniker": "DataAccess\\Repositories\\ICategoryRepository.cs",
+              "ToolTip": "D:\\FPT\\PRN222\\Assignments\\AS01\\HoangHHHE182296_SE1888NET_AS01\\A01\\HoangHHHE182296_SE1888NET_A01\\DataAccess\\Repositories\\ICategoryRepository.cs",
+              "RelativeToolTip": "DataAccess\\Repositories\\ICategoryRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-14T19:05:12.9Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "D:\\FPT\\PRN222\\Assignments\\AS01\\HoangHHHE182296_SE1888NET_AS01\\A01\\HoangHHHE182296_SE1888NET_A01\\Presentation\\Views\\Account\\Login.cshtml",
+              "RelativeDocumentMoniker": "Presentation\\Views\\Account\\Login.cshtml",
+              "ToolTip": "D:\\FPT\\PRN222\\Assignments\\AS01\\HoangHHHE182296_SE1888NET_AS01\\A01\\HoangHHHE182296_SE1888NET_A01\\Presentation\\Views\\Account\\Login.cshtml",
+              "RelativeToolTip": "Presentation\\Views\\Account\\Login.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAQwBMAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-15T13:56:34.192Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "SystemAccount.cs",
+              "DocumentMoniker": "D:\\FPT\\PRN222\\Assignments\\AS01\\HoangHHHE182296_SE1888NET_AS01\\A01\\HoangHHHE182296_SE1888NET_A01\\DataAccess\\Entities\\SystemAccount.cs",
+              "RelativeDocumentMoniker": "DataAccess\\Entities\\SystemAccount.cs",
+              "ToolTip": "D:\\FPT\\PRN222\\Assignments\\AS01\\HoangHHHE182296_SE1888NET_AS01\\A01\\HoangHHHE182296_SE1888NET_A01\\DataAccess\\Entities\\SystemAccount.cs",
+              "RelativeToolTip": "DataAccess\\Entities\\SystemAccount.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-18T11:26:04.666Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "Category.cs",
+              "DocumentMoniker": "D:\\FPT\\PRN222\\Assignments\\AS01\\HoangHHHE182296_SE1888NET_AS01\\A01\\HoangHHHE182296_SE1888NET_A01\\DataAccess\\Entities\\Category.cs",
+              "RelativeDocumentMoniker": "DataAccess\\Entities\\Category.cs",
+              "ToolTip": "D:\\FPT\\PRN222\\Assignments\\AS01\\HoangHHHE182296_SE1888NET_AS01\\A01\\HoangHHHE182296_SE1888NET_A01\\DataAccess\\Entities\\Category.cs",
+              "RelativeToolTip": "DataAccess\\Entities\\Category.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-14T18:52:10.984Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "Presentation.csproj",
+              "DocumentMoniker": "D:\\FPT\\PRN222\\Assignments\\AS01\\HoangHHHE182296_SE1888NET_AS01\\A01\\HoangHHHE182296_SE1888NET_A01\\Presentation\\Presentation.csproj",
+              "RelativeDocumentMoniker": "Presentation\\Presentation.csproj",
+              "ToolTip": "D:\\FPT\\PRN222\\Assignments\\AS01\\HoangHHHE182296_SE1888NET_AS01\\A01\\HoangHHHE182296_SE1888NET_A01\\Presentation\\Presentation.csproj",
+              "RelativeToolTip": "Presentation\\Presentation.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-10-15T06:39:37.541Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\FPT\\PRN222\\Assignments\\AS01\\HoangHHHE182296_SE1888NET_AS01\\A01\\HoangHHHE182296_SE1888NET_A01\\Presentation\\Views\\Category\\Index.cshtml",
+              "RelativeDocumentMoniker": "Presentation\\Views\\Category\\Index.cshtml",
+              "ToolTip": "D:\\FPT\\PRN222\\Assignments\\AS01\\HoangHHHE182296_SE1888NET_AS01\\A01\\HoangHHHE182296_SE1888NET_A01\\Presentation\\Views\\Category\\Index.cshtml",
+              "RelativeToolTip": "Presentation\\Views\\Category\\Index.cshtml",
+              "ViewState": "AgIAAC4AAAAAAAAAAAAYwEcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-15T09:52:21.417Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "wpwsg0qf.xcf~",
+              "DocumentMoniker": "D:\\FPT\\PRN222\\Assignments\\AS01\\HoangHHHE182296_SE1888NET_AS01\\A01\\HoangHHHE182296_SE1888NET_A01\\Presentation\\Views\\Account\\wpwsg0qf.xcf~",
+              "RelativeDocumentMoniker": "Presentation\\Views\\Account\\wpwsg0qf.xcf~",
+              "ToolTip": "D:\\FPT\\PRN222\\Assignments\\AS01\\HoangHHHE182296_SE1888NET_AS01\\A01\\HoangHHHE182296_SE1888NET_A01\\Presentation\\Views\\Account\\wpwsg0qf.xcf~",
+              "RelativeToolTip": "Presentation\\Views\\Account\\wpwsg0qf.xcf~",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-10-18T15:08:58.847Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\FPT\\PRN222\\Assignments\\AS01\\HoangHHHE182296_SE1888NET_AS01\\A01\\HoangHHHE182296_SE1888NET_A01\\Presentation\\appsettings.json",
+              "RelativeDocumentMoniker": "Presentation\\appsettings.json",
+              "ToolTip": "D:\\FPT\\PRN222\\Assignments\\AS01\\HoangHHHE182296_SE1888NET_AS01\\A01\\HoangHHHE182296_SE1888NET_A01\\Presentation\\appsettings.json",
+              "RelativeToolTip": "Presentation\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-10-15T13:23:00.539Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "D:\\FPT\\PRN222\\Assignments\\AS01\\HoangHHHE182296_SE1888NET_AS01\\A01\\HoangHHHE182296_SE1888NET_A01\\Presentation\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "Presentation\\Views\\_ViewStart.cshtml",
+              "ToolTip": "D:\\FPT\\PRN222\\Assignments\\AS01\\HoangHHHE182296_SE1888NET_AS01\\A01\\HoangHHHE182296_SE1888NET_A01\\Presentation\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "Presentation\\Views\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-15T09:39:05.772Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "BusinessLogic.csproj",
+              "DocumentMoniker": "D:\\FPT\\PRN222\\Assignments\\AS01\\HoangHHHE182296_SE1888NET_AS01\\A01\\HoangHHHE182296_SE1888NET_A01\\BusinessLogic\\BusinessLogic.csproj",
+              "RelativeDocumentMoniker": "BusinessLogic\\BusinessLogic.csproj",
+              "ToolTip": "D:\\FPT\\PRN222\\Assignments\\AS01\\HoangHHHE182296_SE1888NET_AS01\\A01\\HoangHHHE182296_SE1888NET_A01\\BusinessLogic\\BusinessLogic.csproj",
+              "RelativeToolTip": "BusinessLogic\\BusinessLogic.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-10-15T09:17:19.547Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 44,
+              "Title": "Tag.cs",
+              "DocumentMoniker": "D:\\FPT\\PRN222\\Assignments\\AS01\\HoangHHHE182296_SE1888NET_AS01\\A01\\HoangHHHE182296_SE1888NET_A01\\DataAccess\\Entities\\Tag.cs",
+              "RelativeDocumentMoniker": "DataAccess\\Entities\\Tag.cs",
+              "ToolTip": "D:\\FPT\\PRN222\\Assignments\\AS01\\HoangHHHE182296_SE1888NET_AS01\\A01\\HoangHHHE182296_SE1888NET_A01\\DataAccess\\Entities\\Tag.cs",
+              "RelativeToolTip": "DataAccess\\Entities\\Tag.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-15T13:12:58.712Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "_NavAdmin.cshtml",
+              "DocumentMoniker": "D:\\FPT\\PRN222\\Assignments\\AS01\\HoangHHHE182296_SE1888NET_AS01\\A01\\HoangHHHE182296_SE1888NET_A01\\Presentation\\Views\\Shared\\Navbar\\_NavAdmin.cshtml",
+              "RelativeDocumentMoniker": "Presentation\\Views\\Shared\\Navbar\\_NavAdmin.cshtml",
+              "ToolTip": "D:\\FPT\\PRN222\\Assignments\\AS01\\HoangHHHE182296_SE1888NET_AS01\\A01\\HoangHHHE182296_SE1888NET_A01\\Presentation\\Views\\Shared\\Navbar\\_NavAdmin.cshtml",
+              "RelativeToolTip": "Presentation\\Views\\Shared\\Navbar\\_NavAdmin.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAABSAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-16T03:12:37.709Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "D:\\FPT\\PRN222\\Assignments\\AS01\\HoangHHHE182296_SE1888NET_AS01\\A01\\HoangHHHE182296_SE1888NET_A01\\Presentation\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "Presentation\\Views\\_ViewImports.cshtml",
+              "ToolTip": "D:\\FPT\\PRN222\\Assignments\\AS01\\HoangHHHE182296_SE1888NET_AS01\\A01\\HoangHHHE182296_SE1888NET_A01\\Presentation\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "Presentation\\Views\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-15T09:39:04.566Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
               "Title": "_NavLecture.cshtml",
-              "DocumentMoniker": "D:\\FPT\\PRN222\\Assigment\\A01\\HoangHHHE182296_SE1888NET_A01\\Presentation\\Views\\Shared\\Navbar\\_NavLecture.cshtml",
+              "DocumentMoniker": "D:\\FPT\\PRN222\\Assignments\\AS01\\HoangHHHE182296_SE1888NET_AS01\\A01\\HoangHHHE182296_SE1888NET_A01\\Presentation\\Views\\Shared\\Navbar\\_NavLecture.cshtml",
               "RelativeDocumentMoniker": "Presentation\\Views\\Shared\\Navbar\\_NavLecture.cshtml",
-              "ToolTip": "D:\\FPT\\PRN222\\Assigment\\A01\\HoangHHHE182296_SE1888NET_A01\\Presentation\\Views\\Shared\\Navbar\\_NavLecture.cshtml",
+              "ToolTip": "D:\\FPT\\PRN222\\Assignments\\AS01\\HoangHHHE182296_SE1888NET_AS01\\A01\\HoangHHHE182296_SE1888NET_A01\\Presentation\\Views\\Shared\\Navbar\\_NavLecture.cshtml",
               "RelativeToolTip": "Presentation\\Views\\Shared\\Navbar\\_NavLecture.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -813,35 +883,47 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 46,
-              "Title": "Core.csproj",
-              "DocumentMoniker": "D:\\FPT\\PRN222\\Assigment\\A01\\HoangHHHE182296_SE1888NET_A01\\Core\\Core.csproj",
-              "RelativeDocumentMoniker": "Core\\Core.csproj",
-              "ToolTip": "D:\\FPT\\PRN222\\Assigment\\A01\\HoangHHHE182296_SE1888NET_A01\\Core\\Core.csproj",
-              "RelativeToolTip": "Core\\Core.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-10-16T10:07:59.045Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 45,
-              "Title": "DataAccess.csproj",
-              "DocumentMoniker": "D:\\FPT\\PRN222\\Assigment\\A01\\HoangHHHE182296_SE1888NET_A01\\DataAccess\\DataAccess.csproj",
-              "RelativeDocumentMoniker": "DataAccess\\DataAccess.csproj",
-              "ToolTip": "D:\\FPT\\PRN222\\Assigment\\A01\\HoangHHHE182296_SE1888NET_A01\\DataAccess\\DataAccess.csproj",
-              "RelativeToolTip": "DataAccess\\DataAccess.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-10-16T10:10:16.528Z"
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 47,
+              "Title": "_ValidationScriptsPartial.cshtml",
+              "DocumentMoniker": "D:\\FPT\\PRN222\\Assignments\\AS01\\HoangHHHE182296_SE1888NET_AS01\\A01\\HoangHHHE182296_SE1888NET_A01\\Presentation\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeDocumentMoniker": "Presentation\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ToolTip": "D:\\FPT\\PRN222\\Assignments\\AS01\\HoangHHHE182296_SE1888NET_AS01\\A01\\HoangHHHE182296_SE1888NET_A01\\Presentation\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeToolTip": "Presentation\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-15T17:17:27.773Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "_Notification.cshtml",
+              "DocumentMoniker": "D:\\FPT\\PRN222\\Assignments\\AS01\\HoangHHHE182296_SE1888NET_AS01\\A01\\HoangHHHE182296_SE1888NET_A01\\Presentation\\Views\\Shared\\_Notification.cshtml",
+              "RelativeDocumentMoniker": "Presentation\\Views\\Shared\\_Notification.cshtml",
+              "ToolTip": "D:\\FPT\\PRN222\\Assignments\\AS01\\HoangHHHE182296_SE1888NET_AS01\\A01\\HoangHHHE182296_SE1888NET_A01\\Presentation\\Views\\Shared\\_Notification.cshtml",
+              "RelativeToolTip": "Presentation\\Views\\Shared\\_Notification.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAABbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-16T16:17:02.544Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "D:\\FPT\\PRN222\\Assignments\\AS01\\HoangHHHE182296_SE1888NET_AS01\\A01\\HoangHHHE182296_SE1888NET_A01\\Presentation\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Presentation\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "D:\\FPT\\PRN222\\Assignments\\AS01\\HoangHHHE182296_SE1888NET_AS01\\A01\\HoangHHHE182296_SE1888NET_A01\\Presentation\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Presentation\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAACAAAAAAAAAAAAAAAFcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-15T10:06:13.654Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 51,
               "Title": "Details.cshtml",
-              "DocumentMoniker": "D:\\FPT\\PRN222\\Assigment\\A01\\HoangHHHE182296_SE1888NET_A01\\Presentation\\Views\\Category\\Details.cshtml",
+              "DocumentMoniker": "D:\\FPT\\PRN222\\Assignments\\AS01\\HoangHHHE182296_SE1888NET_AS01\\A01\\HoangHHHE182296_SE1888NET_A01\\Presentation\\Views\\Category\\Details.cshtml",
               "RelativeDocumentMoniker": "Presentation\\Views\\Category\\Details.cshtml",
-              "ToolTip": "D:\\FPT\\PRN222\\Assigment\\A01\\HoangHHHE182296_SE1888NET_A01\\Presentation\\Views\\Category\\Details.cshtml",
+              "ToolTip": "D:\\FPT\\PRN222\\Assignments\\AS01\\HoangHHHE182296_SE1888NET_AS01\\A01\\HoangHHHE182296_SE1888NET_A01\\Presentation\\Views\\Category\\Details.cshtml",
               "RelativeToolTip": "Presentation\\Views\\Category\\Details.cshtml",
               "ViewState": "AgIAABIAAAAAAAAAAAAAABwAAAAiAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -849,63 +931,111 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 48,
-              "Title": "Tag.cs",
-              "DocumentMoniker": "D:\\FPT\\PRN222\\Assigment\\A01\\HoangHHHE182296_SE1888NET_A01\\DataAccess\\Entities\\Tag.cs",
-              "RelativeDocumentMoniker": "DataAccess\\Entities\\Tag.cs",
-              "ToolTip": "D:\\FPT\\PRN222\\Assigment\\A01\\HoangHHHE182296_SE1888NET_A01\\DataAccess\\Entities\\Tag.cs",
-              "RelativeToolTip": "DataAccess\\Entities\\Tag.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-15T13:12:58.712Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 49,
-              "Title": "NewsArticle.cs",
-              "DocumentMoniker": "D:\\FPT\\PRN222\\Assigment\\A01\\HoangHHHE182296_SE1888NET_A01\\DataAccess\\Entities\\NewsArticle.cs",
-              "RelativeDocumentMoniker": "DataAccess\\Entities\\NewsArticle.cs",
-              "ToolTip": "D:\\FPT\\PRN222\\Assigment\\A01\\HoangHHHE182296_SE1888NET_A01\\DataAccess\\Entities\\NewsArticle.cs",
-              "RelativeToolTip": "DataAccess\\Entities\\NewsArticle.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-14T18:51:51.258Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 50,
-              "Title": "ApplicationDbContext.cs",
-              "DocumentMoniker": "D:\\FPT\\PRN222\\Assigment\\A01\\HoangHHHE182296_SE1888NET_A01\\DataAccess\\Context\\ApplicationDbContext.cs",
-              "RelativeDocumentMoniker": "DataAccess\\Context\\ApplicationDbContext.cs",
-              "ToolTip": "D:\\FPT\\PRN222\\Assigment\\A01\\HoangHHHE182296_SE1888NET_A01\\DataAccess\\Context\\ApplicationDbContext.cs",
-              "RelativeToolTip": "DataAccess\\Context\\ApplicationDbContext.cs",
-              "ViewState": "AgIAAGAAAAAAAAAAAAAAAD4AAAA2AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-14T18:54:27.369Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 51,
-              "Title": "Presentation.csproj",
-              "DocumentMoniker": "D:\\FPT\\PRN222\\Assigment\\A01\\HoangHHHE182296_SE1888NET_A01\\Presentation\\Presentation.csproj",
-              "RelativeDocumentMoniker": "Presentation\\Presentation.csproj",
-              "ToolTip": "D:\\FPT\\PRN222\\Assigment\\A01\\HoangHHHE182296_SE1888NET_A01\\Presentation\\Presentation.csproj",
-              "RelativeToolTip": "Presentation\\Presentation.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-10-15T06:39:37.541Z"
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 52,
-              "Title": "BusinessLogic.csproj",
-              "DocumentMoniker": "D:\\FPT\\PRN222\\Assigment\\A01\\HoangHHHE182296_SE1888NET_A01\\BusinessLogic\\BusinessLogic.csproj",
-              "RelativeDocumentMoniker": "BusinessLogic\\BusinessLogic.csproj",
-              "ToolTip": "D:\\FPT\\PRN222\\Assigment\\A01\\HoangHHHE182296_SE1888NET_A01\\BusinessLogic\\BusinessLogic.csproj",
-              "RelativeToolTip": "BusinessLogic\\BusinessLogic.csproj",
+              "Title": "Core.csproj",
+              "DocumentMoniker": "D:\\FPT\\PRN222\\Assignments\\AS01\\HoangHHHE182296_SE1888NET_AS01\\A01\\HoangHHHE182296_SE1888NET_A01\\Core\\Core.csproj",
+              "RelativeDocumentMoniker": "Core\\Core.csproj",
+              "ToolTip": "D:\\FPT\\PRN222\\Assignments\\AS01\\HoangHHHE182296_SE1888NET_AS01\\A01\\HoangHHHE182296_SE1888NET_A01\\Core\\Core.csproj",
+              "RelativeToolTip": "Core\\Core.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-10-15T09:17:19.547Z"
+              "WhenOpened": "2025-10-16T10:07:59.045Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 53,
+              "Title": "_NavStaff.cshtml",
+              "DocumentMoniker": "D:\\FPT\\PRN222\\Assignments\\AS01\\HoangHHHE182296_SE1888NET_AS01\\A01\\HoangHHHE182296_SE1888NET_A01\\Presentation\\Views\\Shared\\Navbar\\_NavStaff.cshtml",
+              "RelativeDocumentMoniker": "Presentation\\Views\\Shared\\Navbar\\_NavStaff.cshtml",
+              "ToolTip": "D:\\FPT\\PRN222\\Assignments\\AS01\\HoangHHHE182296_SE1888NET_AS01\\A01\\HoangHHHE182296_SE1888NET_A01\\Presentation\\Views\\Shared\\Navbar\\_NavStaff.cshtml",
+              "RelativeToolTip": "Presentation\\Views\\Shared\\Navbar\\_NavStaff.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-16T03:15:22.028Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 54,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\FPT\\PRN222\\Assignments\\AS01\\HoangHHHE182296_SE1888NET_AS01\\A01\\HoangHHHE182296_SE1888NET_A01\\Presentation\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Presentation\\Views\\Home\\Index.cshtml",
+              "ToolTip": "D:\\FPT\\PRN222\\Assignments\\AS01\\HoangHHHE182296_SE1888NET_AS01\\A01\\HoangHHHE182296_SE1888NET_A01\\Presentation\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Presentation\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-15T09:58:29.26Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 55,
+              "Title": "20251014190526_Initial.cs",
+              "DocumentMoniker": "D:\\FPT\\PRN222\\Assignments\\AS01\\HoangHHHE182296_SE1888NET_AS01\\A01\\HoangHHHE182296_SE1888NET_A01\\DataAccess\\Migrations\\20251014190526_Initial.cs",
+              "RelativeDocumentMoniker": "DataAccess\\Migrations\\20251014190526_Initial.cs",
+              "ToolTip": "D:\\FPT\\PRN222\\Assignments\\AS01\\HoangHHHE182296_SE1888NET_AS01\\A01\\HoangHHHE182296_SE1888NET_A01\\DataAccess\\Migrations\\20251014190526_Initial.cs",
+              "RelativeToolTip": "DataAccess\\Migrations\\20251014190526_Initial.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACYAAABXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-14T19:05:27.257Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 56,
+              "Title": "Error.cshtml",
+              "DocumentMoniker": "D:\\FPT\\PRN222\\Assignments\\AS01\\HoangHHHE182296_SE1888NET_AS01\\A01\\HoangHHHE182296_SE1888NET_A01\\Presentation\\Views\\Shared\\Error.cshtml",
+              "RelativeDocumentMoniker": "Presentation\\Views\\Shared\\Error.cshtml",
+              "ToolTip": "D:\\FPT\\PRN222\\Assignments\\AS01\\HoangHHHE182296_SE1888NET_AS01\\A01\\HoangHHHE182296_SE1888NET_A01\\Presentation\\Views\\Shared\\Error.cshtml",
+              "RelativeToolTip": "Presentation\\Views\\Shared\\Error.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-15T13:33:13.907Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 57,
+              "Title": "Privacy.cshtml",
+              "DocumentMoniker": "D:\\FPT\\PRN222\\Assignments\\AS01\\HoangHHHE182296_SE1888NET_AS01\\A01\\HoangHHHE182296_SE1888NET_A01\\Presentation\\Views\\Home\\Privacy.cshtml",
+              "RelativeDocumentMoniker": "Presentation\\Views\\Home\\Privacy.cshtml",
+              "ToolTip": "D:\\FPT\\PRN222\\Assignments\\AS01\\HoangHHHE182296_SE1888NET_AS01\\A01\\HoangHHHE182296_SE1888NET_A01\\Presentation\\Views\\Home\\Privacy.cshtml",
+              "RelativeToolTip": "Presentation\\Views\\Home\\Privacy.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-15T09:58:30.182Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 58,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "D:\\FPT\\PRN222\\Assignments\\AS01\\HoangHHHE182296_SE1888NET_AS01\\A01\\HoangHHHE182296_SE1888NET_A01\\Presentation\\Views\\Category\\Create.cshtml",
+              "RelativeDocumentMoniker": "Presentation\\Views\\Category\\Create.cshtml",
+              "ToolTip": "D:\\FPT\\PRN222\\Assignments\\AS01\\HoangHHHE182296_SE1888NET_AS01\\A01\\HoangHHHE182296_SE1888NET_A01\\Presentation\\Views\\Category\\Create.cshtml",
+              "RelativeToolTip": "Presentation\\Views\\Category\\Create.cshtml",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAACYAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-14T19:16:26.07Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 59,
+              "Title": "ApplicationDbContextModelSnapshot.cs",
+              "DocumentMoniker": "D:\\FPT\\PRN222\\Assignments\\AS01\\HoangHHHE182296_SE1888NET_AS01\\A01\\HoangHHHE182296_SE1888NET_A01\\DataAccess\\Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "RelativeDocumentMoniker": "DataAccess\\Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "ToolTip": "D:\\FPT\\PRN222\\Assignments\\AS01\\HoangHHHE182296_SE1888NET_AS01\\A01\\HoangHHHE182296_SE1888NET_A01\\DataAccess\\Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "RelativeToolTip": "DataAccess\\Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "ViewState": "AgIAADAAAAAAAAAAAAAAACEAAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-16T16:15:41.686Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 60,
+              "Title": "DataAccess.csproj",
+              "DocumentMoniker": "D:\\FPT\\PRN222\\Assignments\\AS01\\HoangHHHE182296_SE1888NET_AS01\\A01\\HoangHHHE182296_SE1888NET_A01\\DataAccess\\DataAccess.csproj",
+              "RelativeDocumentMoniker": "DataAccess\\DataAccess.csproj",
+              "ToolTip": "D:\\FPT\\PRN222\\Assignments\\AS01\\HoangHHHE182296_SE1888NET_AS01\\A01\\HoangHHHE182296_SE1888NET_A01\\DataAccess\\DataAccess.csproj",
+              "RelativeToolTip": "DataAccess\\DataAccess.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-10-16T10:10:16.528Z"
             }
           ]
         }

@@ -82,6 +82,7 @@ $(document).ready(function () {
         e.preventDefault();
         const modalType = $('.btn-submit').attr('action-type');
         const modal = Object.values(MODAL_TYPES_CONST).find(x => x.value == modalType);
+        const accountId = $('.btn-submit').attr('id');
 
         $('#action-type').val(modal.value);
         switch (modal.value) {
@@ -96,22 +97,19 @@ $(document).ready(function () {
                     type: 'POST',
                     data: $(this).serialize(),
                     success: function (response, status, xhr) {
-                        // Nếu server trả về JSON → lỗi hệ thống
                         if (xhr.getResponseHeader("Content-Type").includes("application/json")) {
                             toastr.error(response.message || "Unexpected error");
                             return;
                         }
 
-                        // Nếu trả về partial table → cập nhật bảng
                         $('#account-table-container').html(response);
                         $('#modal').modal('hide');
-                        toastr.success('Account saved successfully!');
+                        toastr.success('An account has been created successfully!');
                     },
                     error: function (xhr) {
-                        // Nếu server trả về partial form (lỗi validation / email trùng)
                         if (xhr.status === 400) {
                             $('#modal .modal-body').html(xhr.responseText);
-                            $.validator.unobtrusive.parse($('#account-form')); // parse lại validate
+                            $.validator.unobtrusive.parse($('#account-form'));
                         } else {
                             toastr.error('Something went wrong!');
                         }
@@ -120,7 +118,38 @@ $(document).ready(function () {
 
                 break;
             case MODAL_TYPES_CONST.update.value:
-                this.submit();
+                if (!$(this).valid()) {
+                    return;
+                }
+
+                const updateParams = $(this).serializeArray();
+                updateParams.push({ name: "Id", value: accountId });
+
+
+                $.ajax({
+                    url: '/Account/CreateUpdate',
+                    type: 'POST',
+                    data: updateParams,
+                    success: function (response, status, xhr) {
+                        if (xhr.getResponseHeader("Content-Type").includes("application/json")) {
+                            toastr.error(response.message || "Unexpected error");
+                            return;
+                        }
+
+                        $('#account-table-container').html(response);
+                        $('#modal').modal('hide');
+                        toastr.success('Account saved successfully!');
+                    },
+                    error: function (xhr) {
+                        if (xhr.status === 400) {
+                            $('#modal .modal-body').html(xhr.responseText);
+                            $.validator.unobtrusive.parse($('#account-form'));
+                        } else {
+                            toastr.error('Something went wrong!');
+                        }
+                    }
+                });
+
                 break;
             case MODAL_TYPES_CONST.changePassword.value:
                 if (!validateOldNew('#old-password', '#new-password', '.err-new-msg') ||
@@ -129,7 +158,25 @@ $(document).ready(function () {
                 }
                 break;
             case MODAL_TYPES_CONST.delete.value:
-                this.submit();
+                $.ajax({
+                    url: '/Account/Delete',
+                    type: 'POST',
+                    data: { accountId: accountId },
+                    success: function (response, status, xhr) {
+                        if (xhr.getResponseHeader("Content-Type").includes("application/json")) {
+                            toastr.error(response.message || "Unexpected error");
+                            return;
+                        }
+
+                        $('#account-table-container').html(response);
+                        $('#modal').modal('hide');
+                        toastr.success('An account has been deleted successfully!');
+                    },
+                    error: function (xhr) {
+                        toastr.error(xhr.responseText || 'Something went wrong!');
+                    }
+                });
+
                 break;
         }
     });

@@ -10,4 +10,9 @@ namespace Core.Enums {
         Staff = 1,
         Lecture = 2
     }
+
+    public enum AccountCheckMode {
+        MustExist,
+        MustNotExist
+    }
 }

@@ -16,6 +16,8 @@ namespace DataAccess.Repositories {
         }
 
         public async Task AddAccountAsync(SystemAccount account) {
+            var lastId = await this.GetLastIdAsync();
+            account.AccountId = ++lastId;
             await _dbContext.SystemAccounts.AddAsync(account);
             await _dbContext.SaveChangesAsync();
         }
@@ -32,11 +34,11 @@ namespace DataAccess.Repositories {
             return await _dbContext.SystemAccounts.FirstOrDefaultAsync(c => c.AccountId == accountId);
         }
 
-        public async Task<IEnumerable<SystemAccount>> SearchAccountAsync(string? accountNameOrEmail, int? accountRole) {
+        public async Task<IEnumerable<SystemAccount>> SearchAccountAsync(string? keyword, int? accountRole) {
             var query = _dbContext.SystemAccounts.AsQueryable();
 
-            if (!string.IsNullOrWhiteSpace(accountNameOrEmail)) {
-                query = query.Where(a => a.AccountName.Contains(accountNameOrEmail) || a.AccountEmail.Contains(accountNameOrEmail));
+            if (!string.IsNullOrWhiteSpace(keyword)) {
+                query = query.Where(a => a.AccountName.Contains(keyword) || a.AccountEmail.Contains(keyword));
             }
 
             if (accountRole.HasValue) {
@@ -46,12 +48,29 @@ namespace DataAccess.Repositories {
             return await query.ToListAsync();
         }
 
-        public Task UpdateAccountAsync(SystemAccount account) {
-            _dbContext.SystemAccounts.Update(account);
-            return _dbContext.SaveChangesAsync();
+        public async Task UpdateAccountAsync(SystemAccount updatedAccount) {
+            var existing = await _dbContext.SystemAccounts.FindAsync(updatedAccount.AccountId);
+
+            if (!string.IsNullOrEmpty(updatedAccount.AccountName)) {
+                existing.AccountName = updatedAccount.AccountName;
+            }
+
+            if (!string.IsNullOrEmpty(updatedAccount.AccountEmail)) {
+                existing.AccountEmail = updatedAccount.AccountEmail;
+            }
+
+            if (!string.IsNullOrEmpty(updatedAccount.AccountPassword)) {
+                existing.AccountPassword = updatedAccount.AccountPassword;
+            }
+
+            if (updatedAccount.AccountRole.HasValue) {
+                existing.AccountRole = updatedAccount.AccountRole.Value;
+            }
+
+            await _dbContext.SaveChangesAsync();
         }
 
-        public async Task<int> GetLastIdAsync() {
+        private async Task<short> GetLastIdAsync() {
             return await _dbContext.SystemAccounts
                 .OrderByDescending(a => a.AccountId)
                 .Select(a => a.AccountId)

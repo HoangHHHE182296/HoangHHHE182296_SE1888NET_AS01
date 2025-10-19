@@ -1,7 +1,7 @@
 ﻿@using Core.Constants.Account
 @using Core.Enums
 @using System.Text.Json
-@model IEnumerable<Presentation.View_Model.AccountViewModel>
+@model IEnumerable<Presentation.View_Model.Data.AccountViewModel>
 
 @{
     ViewData["Title"] = "Account List";
@@ -13,17 +13,17 @@
     <h2 class="mb-5 text-center">Account Management</h2>
     <form method="get" asp-action="ListAccount" class="row g-3 align-items-end bg-light mb-4 rounded p-3 shadow-sm">
         <div class="col-md-3">
-            <input type="text" name="nameOrEmail" class="form-control"
-                   placeholder="Enter username or email" value="@ViewBag.NameOrEmail" />
+            <input type="text" name="Keyword" class="form-control"
+                   placeholder="Enter username or email" value="@ViewBag.Keyword"/>
         </div>
 
         <div class="col-md-3">
 
-            <select name="role" class="form-select">
+            <select name="Role" class="form-select">
                 <option value="">All</option>
 
-                <option value="@((int)AccountRole.Staff)" selected="@(ViewBag.Role == (int)AccountRole.Staff)">Staff</option>
-                <option value="@((int)AccountRole.Lecture)" selected="@(ViewBag.Role == (int)AccountRole.Lecture)">Lecturer</option>
+                <option value="@(AccountRole.Staff)" selected="@(ViewBag.Role == AccountRole.Staff.ToString())">Staff</option>
+                <option value="@(AccountRole.Lecture)" selected="@(ViewBag.Role == AccountRole.Lecture.ToString())">Lecturer</option>
             </select>
         </div>
 
